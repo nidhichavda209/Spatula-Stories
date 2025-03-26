@@ -151,6 +151,28 @@
     body:has(:target:not(#home)) .tab div#home {
       display: none;
     }
+    .footer {
+  background-color: #ff7043;
+  color: white;
+  padding: 20px 10px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
   </style>
 </head>
 <body>
@@ -209,6 +231,20 @@
     });
   </script>
   
-
+ <footer style="background-color: #ff7043; color: white; padding: 20px 10px; text-align: center; margin-top: 20px;">
+    <div>
+      <p>&copy; 2025 Spatula Stories. All rights reserved.</p>
+      <p>
+        <a href="#about" style="color: white; text-decoration: none; margin: 0 10px;">About Us</a> |
+        <a href="#contact" style="color: white; text-decoration: none; margin: 0 10px;">Contact</a> |
+        <a href="#privacy" style="color: white; text-decoration: none; margin: 0 10px;">Privacy Policy</a>
+      </p>
+      <p>Follow us on:
+        <a href="https://facebook.com" style="color: white; text-decoration: none; margin: 0 5px;">Facebook</a>
+        <a href="https://twitter.com" style="color: white; text-decoration: none; margin: 0 5px;">Twitter</a>
+        <a href="https://instagram.com" style="color: white; text-decoration: none; margin: 0 5px;">Instagram</a>
+      </p>
+    </div>
+  </footer>
 </body>
 </html>
