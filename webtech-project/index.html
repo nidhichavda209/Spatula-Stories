@@ -134,16 +134,23 @@
       }
     }
 
-    .tab div :target ~ #default{
-        display: none;
-    }
-    .tab div:target{
-        display: block;
-    }
-    .tab div:not(:target){
-        display: none;
+    .tab div {
+      display: none;
     }
 
+    .tab div:target {
+      display: block;
+    }
+
+    /* Default to Home */
+    .tab div#home {
+      display: block;
+    }
+
+    /* When a different section is targeted, hide the Home section */
+    body:has(:target:not(#home)) .tab div#home {
+      display: none;
+    }
   </style>
 </head>
 <body>
