@@ -7,13 +7,13 @@ const Footer = () => {
         <div class="f-left">
           <p>
             <a href="#about">About Us</a> |
-            <a href="#contact">&#128222;Contact</a> |
-            <a href="#privacy">Privacy Policy</a>
+            <a href="#contact"> &#xF5C1; Contact</a> |
+            <a href="#privacy"> Privacy Policy</a>
           </p>
           <p>Follow us on:
-            <a href="https://facebook.com"> <img src="/assets/fb_logo.png" alt="fb-logo" width="15px" />Facebook</a>
-            <a href="https://twitter.com">Twitter</a>
-            <a href="https://instagram.com">Instagram</a>
+            <a href="https://facebook.com"> &#xF344; Facebook</a> |
+            <a href="https://twitter.com"> &#120143; Twitter</a> |
+            <a href="https://instagram.com"> &#xF437; Instagram</a>
           </p>
         </div>
         <div class="f-right">

@@ -32,9 +32,14 @@ const Dropdown = () => {
       {isChecked && (
         <div className="dropdown-content">
           <a href="#breakfast">Breakfast</a>
+          <a href="#brunch">Brunch</a>
           <a href="#lunch">Lunch</a>
           <a href="#dinner">Dinner</a>
           <a href="#desserts">Desserts</a>
+          <a href="#diet">Healthy and Diet</a>
+          <a href="#cuisine">Cuisine</a>
+          <a href="#mithai">Mithai</a>
+
         </div>
       )}
     </div>
