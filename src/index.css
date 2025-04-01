@@ -154,32 +154,65 @@ padding: 20px 10px;
 margin-top: 20px;
 }
 
-.footer-main{
-display: flex;
-justify-content: space-between;
-align-items: center;
+/* Footer Styles */
+.footer {
+  background-color: #6a1b9a; /* Keeping original purple background */
+  color: white;
+  padding: 20px 10px;
+  margin-top: 20px;
 }
 
-.f-left{
+.footer-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.f-left {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
-.f-left p{
+
+.f-left p {
   display: flex;
   align-items: center;
   gap: 5px;
 }
-.f-left a{
-text-decoration: none;
-color: white;
-display: flex;
-align-items: center;
-gap: 3px;
+
+.f-left a {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: bold;
+  transition: color 0.3s ease;
 }
 
-.f-left p a:hover{
+.f-left a:hover {
+  color: #ffd700; /* Gold hover effect */
   text-decoration: underline;
+}
+
+.f-right {
+  text-align: right;
+}
+
+/* Responsive Footer */
+@media (max-width: 768px) {
+  .footer-main {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .f-right {
+    text-align: center;
+    margin-top: 10px;
+  }
 }
 
 .grid-container{
@@ -255,4 +288,35 @@ gap: 3px;
   background-color: #ede7f6;
   width: 50%;
   padding: 20px;
+}
+
+.page-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.page-container h1 {
+  color: #6a1b9a;
+  border-bottom: 2px solid #6a1b9a;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+
+.page-container h2 {
+  margin-top: 20px;
+  color: #333;
+}
+
+.page-container p, .page-container ul {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+}
+
+.page-container ul {
+  padding-left: 20px;
 }
