@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav>
     <div class="logo">
-      <img src="/assets/logo.png" alt="Logo"/> 
+      <img src="https://thumbs.dreamstime.com/b/black-white-spatula-soup-ladle-cross-icon-kitchen-tools-cooking-vector-isolated-white-black-white-spatula-soup-221498206.jpg" alt="Logo"/> 
       <span>Spatula Stories</span>
     </div>
 

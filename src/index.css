@@ -6,11 +6,12 @@
 
   body {
     font-family: Arial, sans-serif;
+    background-color: #fdfdfd;
   }
 
   /* Navbar Container */
   nav {
-    background-color: #ff7043;
+    background-color: #6a1b9a;
     padding: 10px 20px;
     display: flex;
     align-items: center;
@@ -28,6 +29,7 @@
   .logo img {
     height: 40px;
     margin-right: 10px;
+    border-radius: 50%;
   }
 
   .logo span {
@@ -118,7 +120,7 @@
 
     .dropdown-content {
       position: static;
-      background-color: #ffab91;
+      background-color: #ede7f6;
     }
 
     .dropdown-content a {
@@ -145,7 +147,7 @@
   }
   
   .footer {
-background-color: #ff7043;
+background-color: #6a1b9a;
 color: white;
 padding: 20px 10px;
 /* text-align: center; */
@@ -158,20 +160,37 @@ justify-content: space-between;
 align-items: center;
 }
 
+.f-left{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.f-left p{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
 .f-left a{
 text-decoration: none;
 color: white;
+display: flex;
+align-items: center;
+gap: 3px;
+}
+
+.f-left p a:hover{
+  text-decoration: underline;
 }
 
 .grid-container{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 20px;
-    padding: 30px;
+    padding: 70px;
 }
 
 .grid-item{
-    background-color: #ffab91;
+    background-color: #ede7f6;
     min-height: 400px;
 }
 
@@ -191,4 +210,49 @@ color: white;
     .grid-container{
         grid-template-columns: repeat(1,1fr);
     }
+}
+
+.image-div{
+  width: 310px; 
+  height: 300px; 
+  overflow: hidden; 
+  position: relative; 
+}
+
+.grid-item img{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    left: 0; 
+    top: 0; 
+    object-fit: cover; 
+    transition: transform 0.3s ease;  
+}
+
+.grid-item img:hover {
+  transform:scale(1.1);
+}
+
+.grid-item h1{
+  color: #333333;
+  padding-top:20px ;
+  text-align: center;
+}
+
+.grid-item h1:hover{
+  opacity: 0.7;
+  transition: 0.2s;
+}
+
+.login-container{
+  background-color: #fdfdfd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-box{
+  background-color: #ede7f6;
+  width: 50%;
+  padding: 20px;
 }
