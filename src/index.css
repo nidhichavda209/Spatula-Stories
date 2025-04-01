@@ -29,6 +29,7 @@
   .logo img {
     height: 40px;
     margin-right: 10px;
+    border-radius: 50%;
   }
 
   .logo span {
@@ -164,10 +165,17 @@ align-items: center;
   flex-direction: column;
   gap: 5px;
 }
-
+.f-left p{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
 .f-left a{
 text-decoration: none;
 color: white;
+display: flex;
+align-items: center;
+gap: 3px;
 }
 
 .f-left p a:hover{
