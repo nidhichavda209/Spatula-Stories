@@ -36,10 +36,13 @@ const Dropdown = () => {
           <a href="#lunch">Lunch</a>
           <a href="#dinner">Dinner</a>
           <a href="#desserts">Desserts</a>
-          <a href="#diet">Healthy and Diet</a>
+          <a href="#diet">Healthy & Diet</a>
           <a href="#cuisine">Cuisine</a>
           <a href="#mithai">Mithai</a>
-
+          <a href="#drinks">Drink & Cocktail</a>
+          <a href="#soup">Soup</a>
+          <a href="#snacks">Snacks & Appetizers</a>
+          <a href="#international">International Eats</a>
         </div>
       )}
     </div>

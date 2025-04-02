@@ -51,10 +51,30 @@ const Home = () => {
           </div>
           <h1>Mithai</h1>
         </div>
-        <div className='grid-item'></div>
-        <div className='grid-item'></div>
-        <div className='grid-item'></div>
-        <div className='grid-item'></div>
+        <div className='grid-item'>
+          <div className='image-div'>
+            <img src="https://media.istockphoto.com/id/1468173966/photo/cocktail-party-bright-fruity-and-citrus-alcoholic-drinks-with-gin-vodka-vermouth-and-juice.jpg?s=612x612&w=0&k=20&c=I3vNEqwuk4OzK0bdosqpmlowLb2MYlonHTbDwQvX1tk=" alt="drinks" />
+          </div>
+          <h1>Drink & Cocktail</h1>
+        </div>
+        <div className='grid-item'>
+          <div className='image-div'>
+            <img src="https://media.istockphoto.com/id/1226586928/photo/hot-vegetable-soup-in-a-dish-made-of-natural-materials-traditional-family-lunch-in-a-russian.jpg?s=612x612&w=0&k=20&c=BEJ-vSjbEpLWFUvgqVBuGlReQojVQC7zhAJI8c-YJQs=" alt="soup" />
+          </div>
+          <h1>Soup</h1>
+        </div>
+        <div className='grid-item'>
+          <div className='image-div'>
+            <img src="https://media.istockphoto.com/id/1029200760/photo/table-decoration-of-beautiful-tasty-food-on-celebration-day.jpg?s=612x612&w=0&k=20&c=QZ7q8yTgMs0z3Ya8C4tBDHJcDvtZTdXM6qZ1Yy1TcoA=" alt="snacks" />
+          </div>
+          <h1>Snacks & Appetizers</h1>
+        </div>
+        <div className='grid-item'>
+          <div className='image-div'>
+            <img src="https://media.istockphoto.com/id/513124350/photo/cuisine-of-different-countries.jpg?s=612x612&w=0&k=20&c=KlcikHT7Cw5pLOynGjB4w_q3TAh-iDnpPHClBEfIBbY=" alt="international" />
+          </div>
+          <h1>International Eats</h1>
+        </div>
     </div>
   )
 }
