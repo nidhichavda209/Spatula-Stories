@@ -1,0 +1,225 @@
+[
+    {
+      "name": "Masala Dosa",
+      "category": "Breakfast",
+      "steps": [
+        "Soak rice and urad dal overnight.",
+        "Grind into a smooth batter and ferment for 8 hours.",
+        "Prepare potato filling with mustard seeds, curry leaves, onions and boiled potatoes.",
+        "Spread dosa batter on a hot tawa.",
+        "Place potato filling and fold dosa.",
+        "Serve hot with chutney and sambar."
+      ],
+      "author": "Chef Ananya Rao"
+    },
+    {
+      "name": "Rajma Chawal",
+      "category": "Lunch",
+      "steps": [
+        "Soak rajma overnight and pressure cook until soft.",
+        "Prepare masala with onions, tomatoes, and spices.",
+        "Add boiled rajma and cook for 15-20 mins.",
+        "Serve hot with steamed basmati rice."
+      ],
+      "author": "Chef Rohan Mehta"
+    },
+    {
+      "name": "Pav Bhaji",
+      "category": "Brunch",
+      "steps": [
+        "Boil mixed vegetables like potatoes, peas, and carrots.",
+        "Mash and cook with butter, onions, tomatoes, and pav bhaji masala.",
+        "Toast pav buns with butter.",
+        "Serve hot with lemon and onions."
+      ],
+      "author": "Chef Preeti Shah"
+    },
+    {
+      "name": "Butter Chicken",
+      "category": "Dinner",
+      "steps": [
+        "Marinate chicken with yogurt and spices for 6 hours.",
+        "Cook chicken in a tandoor or oven.",
+        "Prepare creamy tomato-based gravy.",
+        "Add chicken to gravy and simmer for 10 mins.",
+        "Add butter and cream before serving."
+      ],
+      "author": "Chef Arjun Khanna"
+    },
+    {
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "steps": [
+        "Make dough using khoya and flour.",
+        "Shape into small balls and deep fry.",
+        "Prepare sugar syrup with cardamom and rose water.",
+        "Soak fried balls in warm syrup.",
+        "Serve warm or cold."
+      ],
+      "author": "Chef Nisha Kulkarni"
+    },
+    {
+      "name": "Sprouted Moong Salad",
+      "category": "Healthy and Diet",
+      "steps": [
+        "Soak and sprout green moong for 2 days.",
+        "Mix with chopped onions, tomatoes, cucumber, and coriander.",
+        "Add lemon juice and black salt.",
+        "Toss and serve chilled."
+      ],
+      "author": "Chef Tanvi Desai"
+    },
+    {
+      "name": "Kaju Katli",
+      "category": "Mithai",
+      "steps": [
+        "Grind cashews to a fine powder.",
+        "Cook with sugar and water until thick.",
+        "Roll mixture and cut into diamond shapes.",
+        "Garnish with silver foil (varak)."
+      ],
+      "author": "Chef Vinod Patel"
+    },
+    {
+      "name": "Chole Bhature",
+      "category": "Cuisine",
+      "steps": [
+        "Soak and pressure cook chole.",
+        "Prepare masala with onion, tomato, and chole masala.",
+        "Knead dough for bhature and let it rest.",
+        "Roll and deep fry bhature.",
+        "Serve hot with chole, onion, and pickle."
+      ],
+      "author": "Chef Meera Bansal"
+    },
+    {
+      "name": "Lassi",
+      "category": "Drink and Cocktail",
+      "steps": [
+        "Blend curd, sugar, and water.",
+        "Add cardamom or rose essence.",
+        "Serve chilled with a dollop of cream."
+      ],
+      "author": "Chef Harjit Singh"
+    },
+    {
+      "name": "Tomato Shorba",
+      "category": "Soup",
+      "steps": [
+        "Cook tomatoes with garlic, onion, and spices.",
+        "Blend into a smooth puree.",
+        "Simmer and strain.",
+        "Serve hot with coriander garnish."
+      ],
+      "author": "Chef Priya Menon"
+    },
+    {
+      "name": "Aloo Tikki",
+      "category": "Snacks and Appetizers",
+      "steps": [
+        "Boil and mash potatoes.",
+        "Mix with spices and breadcrumbs.",
+        "Shape into tikkis and shallow fry.",
+        "Serve with chutney and curd."
+      ],
+      "author": "Chef Ravi Joshi"
+    },
+    {
+      "name": "Paneer Tikka",
+      "category": "Snacks and Appetizers",
+      "steps": [
+        "Marinate paneer cubes with curd and spices.",
+        "Skewer and grill till charred.",
+        "Serve with mint chutney."
+      ],
+      "author": "Chef Kavita Shah"
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "category": "Dinner",
+      "steps": [
+        "Marinate chicken with spices and curd.",
+        "Layer half-cooked rice and marinated chicken.",
+        "Seal and cook on dum for 45 mins.",
+        "Serve with raita and mirchi ka salan."
+      ],
+      "author": "Chef Imran Hussain"
+    },
+    {
+      "name": "Vegetable Upma",
+      "category": "Breakfast",
+      "steps": [
+        "Roast semolina (rava) till golden.",
+        "Sauté veggies with mustard seeds and curry leaves.",
+        "Add water and bring to boil.",
+        "Add rava gradually and stir.",
+        "Cook until thickened."
+      ],
+      "author": "Chef Ritu Sinha"
+    },
+    {
+      "name": "Mango Lassi",
+      "category": "Drink and Cocktail",
+      "steps": [
+        "Blend mango pulp, curd, and sugar.",
+        "Add cardamom and a pinch of salt.",
+        "Serve chilled with mint leaves."
+      ],
+      "author": "Chef Neha Grover"
+    },
+    {
+      "name": "Rasgulla",
+      "category": "Mithai",
+      "steps": [
+        "Prepare chenna from curdled milk.",
+        "Knead and shape into balls.",
+        "Boil in sugar syrup until fluffy.",
+        "Cool and serve chilled."
+      ],
+      "author": "Chef Sandeep Roy"
+    },
+    {
+      "name": "Tandoori Roti",
+      "category": "Lunch",
+      "steps": [
+        "Prepare dough with whole wheat flour.",
+        "Roll into flat circles.",
+        "Bake in tandoor or oven till brown spots appear.",
+        "Brush with ghee and serve hot."
+      ],
+      "author": "Chef Alka Sharma"
+    },
+    {
+      "name": "Palak Paneer",
+      "category": "Healthy and Diet",
+      "steps": [
+        "Blanch and puree spinach leaves.",
+        "Sauté onion, tomato, and ginger.",
+        "Add spinach puree and paneer cubes.",
+        "Cook for 10 mins and serve hot."
+      ],
+      "author": "Chef Dhruv Bajaj"
+    },
+    {
+      "name": "Falooda",
+      "category": "Desserts",
+      "steps": [
+        "Soak falooda sev and basil seeds separately.",
+        "Layer in glass with rose syrup, sev, basil seeds, milk, and ice cream.",
+        "Garnish with dry fruits."
+      ],
+      "author": "Chef Zoya Siddiqui"
+    },
+    {
+      "name": "Hakka Noodles",
+      "category": "International Eats",
+      "steps": [
+        "Boil noodles and keep aside.",
+        "Sauté vegetables in oil with garlic and soy sauce.",
+        "Add noodles and stir-fry.",
+        "Season and serve hot."
+      ],
+      "author": "Chef Aryan Malhotra"
+    }
+  ]
+  
