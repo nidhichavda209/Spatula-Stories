@@ -1,7 +1,7 @@
 import React from 'react'
 import Dropdown from './Dropdown'
 
-const Navbar = () => {
+const Navbar = ({ onCategoryChange }) => {
   return (
     <nav>
     <div class="logo">
@@ -14,7 +14,7 @@ const Navbar = () => {
 
     <div class="nav-links">
       <a href="/">Home</a>
-        <Dropdown/>
+        <Dropdown onCategoryChange={onCategoryChange}/>
       <a href="/add_recipe">Add Recipe</a>
       <a href="/login">Login</a>
     </div>

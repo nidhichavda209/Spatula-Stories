@@ -1,8 +1,24 @@
+// Dropdown.js
 import React, { useState, useEffect } from "react";
 
-
-const Dropdown = () => {
+const Dropdown = ({ onCategoryChange }) => {
   const [isChecked, setIsChecked] = useState(false);
+
+  const categories = [
+    "All",
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Desserts",
+    "Healthy and Diet",
+    "Cuisine",
+    "Mithai",
+    "Drink and Cocktail",
+    "Soup",
+    "Snacks and Appetizers",
+    "International Eats",
+  ];
 
   useEffect(() => {
     const handleClickOutside = (event) => {
@@ -16,6 +32,11 @@ const Dropdown = () => {
       document.removeEventListener("click", handleClickOutside);
     };
   }, []);
+
+  const handleCategoryClick = (category) => {
+    onCategoryChange(category);  // call the prop passed from App
+    setIsChecked(false); // close dropdown after selection
+  };
 
   return (
     <div className="dropdown">
@@ -31,18 +52,18 @@ const Dropdown = () => {
       </label>
       {isChecked && (
         <div className="dropdown-content">
-          <a href="#breakfast">Breakfast</a>
-          <a href="#brunch">Brunch</a>
-          <a href="#lunch">Lunch</a>
-          <a href="#dinner">Dinner</a>
-          <a href="#desserts">Desserts</a>
-          <a href="#diet">Healthy & Diet</a>
-          <a href="#cuisine">Cuisine</a>
-          <a href="#mithai">Mithai</a>
-          <a href="#drinks">Drink & Cocktail</a>
-          <a href="#soup">Soup</a>
-          <a href="#snacks">Snacks & Appetizers</a>
-          <a href="#international">International Eats</a>
+          {categories.map((cat) => (
+            <a
+              key={cat}
+              href="#"
+              onClick={(e) => {
+                e.preventDefault();
+                handleCategoryClick(cat);
+              }}
+            >
+              {cat}
+            </a>
+          ))}
         </div>
       )}
     </div>
