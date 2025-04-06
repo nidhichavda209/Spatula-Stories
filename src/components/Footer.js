@@ -1,4 +1,5 @@
 import React from "react";
+import '../Styles/Footer.css'
 import { Facebook, Instagram, Phone } from "lucide-react";
 
 const Footer = () => {
@@ -7,7 +8,6 @@ const Footer = () => {
       <div className="footer-main">
         <div className="f-left">
           <p>
-            <a href="/about">About Us</a> |
             <a href="/contact">
               <Phone size={15} /> Contact
             </a> |

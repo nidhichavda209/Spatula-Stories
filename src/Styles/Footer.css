@@ -1,0 +1,60 @@
+/* Footer Styles */
+.footer {
+    background-color: #6a1b9a; /* Keeping original purple background */
+    color: white;
+    padding: 20px 10px;
+    margin-top: 20px;
+  }
+  
+  .footer-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .f-left {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .f-left p {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .f-left a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .f-left a:hover {
+    color: #ffd700; /* Gold hover effect */
+    text-decoration: underline;
+  }
+  
+  .f-right {
+    text-align: right;
+  }
+  
+  /* Responsive Footer */
+  @media (max-width: 768px) {
+    .footer-main {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .f-right {
+      text-align: center;
+      margin-top: 10px;
+    }
+  }
