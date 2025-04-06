@@ -1,52 +1,106 @@
+// AuthPage.jsx
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./Login.css"; // Importing CSS file
+import "../styles/AuthPage.css"; // Adjust path if needed
 
-const Login = () => {
+const AuthPage = () => {
+  const [isLogin, setIsLogin] = useState(true);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [confirmPassword, setConfirmPassword] = useState("");
+  const [error, setError] = useState("");
   const navigate = useNavigate();
 
-  const handleLogin = (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Mock authentication
-    if (email === "user@example.com" && password === "password") {
-      alert("Login successful!");
-      navigate("/"); // Redirect to home
+    if (!email || !password || (!isLogin && !confirmPassword)) {
+      setError("Please fill out all fields.");
+      return;
+    }
+
+    if (!isLogin && password !== confirmPassword) {
+      setError("Passwords do not match.");
+      return;
+    }
+
+    if (isLogin) {
+      // Mock login
+      if (email === "user@example.com" && password === "password") {
+        alert("Login successful!");
+        navigate("/");
+      } else {
+        setError("Invalid login credentials.");
+      }
     } else {
-      alert("Invalid credentials");
+      // Mock signup
+      alert("Account created successfully!");
+      setIsLogin(true); // Switch to login
     }
   };
 
   return (
-    <div className="login-container">
-      <div className="login-box">
-        <h2>Login</h2>
-        <form onSubmit={handleLogin}>
+    <div className="auth-container">
+      <div className="auth-box">
+        <h2>{isLogin ? "Login" : "Sign Up"}</h2>
+        <form onSubmit={handleSubmit}>
           <div className="input-group">
-            <label>Email</label>
+            <label htmlFor="email">Email</label>
             <input
+              id="email"
               type="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               required
             />
           </div>
+
           <div className="input-group">
-            <label>Password</label>
+            <label htmlFor="password">Password</label>
             <input
+              id="password"
               type="password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               required
             />
           </div>
-          <button type="submit" className="login-button">Login</button>
+
+          {!isLogin && (
+            <div className="input-group">
+              <label htmlFor="confirmPassword">Confirm Password</label>
+              <input
+                id="confirmPassword"
+                type="password"
+                value={confirmPassword}
+                onChange={(e) => setConfirmPassword(e.target.value)}
+                required
+              />
+            </div>
+          )}
+
+          {error && <p className="error">{error}</p>}
+
+          <button type="submit" className="auth-button">
+            {isLogin ? "Login" : "Sign Up"}
+          </button>
+
+          <p className="toggle-text">
+            {isLogin ? "Don't have an account?" : "Already have an account?"}{" "}
+            <span
+              className="toggle-link"
+              onClick={() => {
+                setIsLogin(!isLogin);
+                setError("");
+              }}
+            >
+              {isLogin ? "Sign Up" : "Login"}
+            </span>
+          </p>
         </form>
       </div>
     </div>
   );
 };
 
-export default Login;
+export default AuthPage;
