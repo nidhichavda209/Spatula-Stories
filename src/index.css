@@ -9,6 +9,8 @@
     background-color: #fdfdfd;
   }
 
+<<<<<<< HEAD
+=======
   /* Navbar Container */
   nav {
     background-color: #6a1b9a;
@@ -290,6 +292,7 @@ margin-top: 20px;
   padding: 20px;
 }
 
+>>>>>>> dfc50e8a3cde12fe1b78771de15c9b594b3561dc
 .page-container {
   max-width: 800px;
   margin: 50px auto;
@@ -320,3 +323,5 @@ margin-top: 20px;
 .page-container ul {
   padding-left: 20px;
 }
+
+

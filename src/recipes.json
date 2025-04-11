@@ -2,6 +2,7 @@
     {
       "name": "Masala Dosa",
       "category": "Breakfast",
+      "image": "https://media.istockphoto.com/id/1374666267/photo/masala-dosa-south-indian-breakfast.jpg?s=612x612&w=0&k=20&c=wHurZpgJCahFgRIVwaSH46l0_NAWFFLRJp3JY5-obqc=",
       "steps": [
         "Soak rice and urad dal overnight.",
         "Grind into a smooth batter and ferment for 8 hours.",
@@ -16,6 +17,7 @@
     {
       "name": "Rajma Chawal",
       "category": "Lunch",
+      "image": "https://media.istockphoto.com/id/1451460553/photo/rajma-chawal-an-indian-food.jpg?s=612x612&w=0&k=20&c=xJEch742fWCSwQR4VwHX0YHnXf0MbBFNziSSmz32-ww=",
       "steps": [
         "Soak rajma overnight and pressure cook until soft.",
         "Prepare masala with onions, tomatoes, and spices.",
@@ -27,6 +29,7 @@
     {
       "name": "Pav Bhaji",
       "category": "Brunch",
+      "image": "https://media.istockphoto.com/id/1057140522/photo/indian-mumbai-food-pav-bhaji-from-vegetables-with-bread-close-up-in-a-bowl-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=j4jz4CtwnmQ_ZTGgVg75gYPJdcExwbfRE9ZOEQP1tRs=",
       "steps": [
         "Boil mixed vegetables like potatoes, peas, and carrots.",
         "Mash and cook with butter, onions, tomatoes, and pav bhaji masala.",
@@ -38,6 +41,7 @@
     {
       "name": "Butter Chicken",
       "category": "Dinner",
+      "image": "https://media.istockphoto.com/id/618457124/photo/butter-chicken-served-with-homemade-indian-naan-bread.jpg?s=612x612&w=0&k=20&c=7FoiHoDtocfPvQIaRFfFani4e5lkfMTNl_619rTTh4g=",
       "steps": [
         "Marinate chicken with yogurt and spices for 6 hours.",
         "Cook chicken in a tandoor or oven.",
@@ -50,6 +54,7 @@
     {
       "name": "Gulab Jamun",
       "category": "Desserts",
+      "image": "https://media.istockphoto.com/id/668147754/photo/gulab-jamun.jpg?s=612x612&w=0&k=20&c=yM8YjrafVCS6SLTEWQH4s2FVduHnAzfkUIR-KkWI7Z0=",
       "steps": [
         "Make dough using khoya and flour.",
         "Shape into small balls and deep fry.",
@@ -62,6 +67,7 @@
     {
       "name": "Sprouted Moong Salad",
       "category": "Healthy and Diet",
+      "image": "https://media.istockphoto.com/id/1127733398/photo/sprouted-lentil-salad.jpg?s=612x612&w=0&k=20&c=wsUlFsYVMaYLkBQbSc1K1l8KloZ8KEVr4v6lAnmn9rM=",
       "steps": [
         "Soak and sprout green moong for 2 days.",
         "Mix with chopped onions, tomatoes, cucumber, and coriander.",
@@ -73,6 +79,7 @@
     {
       "name": "Kaju Katli",
       "category": "Mithai",
+      "image": "https://media.istockphoto.com/id/506626263/photo/kaju-katli-4.jpg?s=612x612&w=0&k=20&c=GfqeJOk0Z0TrD_LoWWI3X_HnxKa2fXW97GNky13Rp_0=",
       "steps": [
         "Grind cashews to a fine powder.",
         "Cook with sugar and water until thick.",
@@ -84,6 +91,7 @@
     {
       "name": "Chole Bhature",
       "category": "Cuisine",
+      "image": "https://media.istockphoto.com/id/979912108/photo/chole-bhature-or-chick-pea-curry-and-fried-puri-served-in-terracotta-crockery-over-white.jpg?s=612x612&w=0&k=20&c=aJjdXiAkjLp8EDd4DuMsTMPn7FZ10qN7Swk1GFNkFfQ=",
       "steps": [
         "Soak and pressure cook chole.",
         "Prepare masala with onion, tomato, and chole masala.",
@@ -96,6 +104,7 @@
     {
       "name": "Lassi",
       "category": "Drink and Cocktail",
+      "image": "https://media.istockphoto.com/id/517241457/photo/lassi.jpg?s=612x612&w=0&k=20&c=nHNjnGB7a3zoeWEywW7c5tsWxJDdIUZLbNhQ2WM4mOU=",
       "steps": [
         "Blend curd, sugar, and water.",
         "Add cardamom or rose essence.",
@@ -106,6 +115,7 @@
     {
       "name": "Tomato Shorba",
       "category": "Soup",
+      "image": "https://media.istockphoto.com/id/1416794506/photo/harira-soup-served-for-the-evening-of-ramadan-spicy-soup-with-various-vegetables-coriander.jpg?s=612x612&w=0&k=20&c=YaCaAArjNNCDluicmxp29KUHyGojBh633Mzw1bJWfck=",
       "steps": [
         "Cook tomatoes with garlic, onion, and spices.",
         "Blend into a smooth puree.",
@@ -117,6 +127,7 @@
     {
       "name": "Aloo Tikki",
       "category": "Snacks and Appetizers",
+      "image": "https://media.istockphoto.com/id/1264056882/photo/indian-aloo-tikki-or-potato-cutlet-is-made-out-of-boiled-potatoes-peas-and-various-curry.jpg?s=612x612&w=0&k=20&c=yr981RXBJGF1UIhKkuzct3UyiQ4uqAvnY_KRQUk1W0k=",
       "steps": [
         "Boil and mash potatoes.",
         "Mix with spices and breadcrumbs.",
@@ -128,6 +139,7 @@
     {
       "name": "Paneer Tikka",
       "category": "Snacks and Appetizers",
+      "image": "https://media.istockphoto.com/id/1186759790/photo/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-tikka-is-an-indian.jpg?s=612x612&w=0&k=20&c=cITToqM1KEnrixXjoLhEciqP24SxdKtW3QXykq-W5OE=",
       "steps": [
         "Marinate paneer cubes with curd and spices.",
         "Skewer and grill till charred.",
@@ -138,6 +150,7 @@
     {
       "name": "Hyderabadi Biryani",
       "category": "Dinner",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=612x612&w=0&k=20&c=9xEw3VOQSz9TP8yQr60L47uExyKF9kogRhQdlghlC00=",
       "steps": [
         "Marinate chicken with spices and curd.",
         "Layer half-cooked rice and marinated chicken.",
@@ -149,6 +162,7 @@
     {
       "name": "Vegetable Upma",
       "category": "Breakfast",
+      "image": "https://media.istockphoto.com/id/1124389291/photo/rava-upma-uppuma-south-indian-breakfast-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=AacmEsm0kfkD5rl89qYPIvqw1erQQjtFCxA8KWOL9I0=",
       "steps": [
         "Roast semolina (rava) till golden.",
         "Sauté veggies with mustard seeds and curry leaves.",
@@ -161,6 +175,7 @@
     {
       "name": "Mango Lassi",
       "category": "Drink and Cocktail",
+      "image": "https://media.istockphoto.com/id/953718476/photo/mango-lassi-or-smoothie-in-big-glasses-with-curd-cut-fruit-pieces-and-blender.jpg?s=612x612&w=0&k=20&c=bayxlvHBvJt1bZmRFdUcx83GKhFez3AsMMJJS2-T4Zk=",
       "steps": [
         "Blend mango pulp, curd, and sugar.",
         "Add cardamom and a pinch of salt.",
@@ -171,6 +186,7 @@
     {
       "name": "Rasgulla",
       "category": "Mithai",
+      "image": "https://media.istockphoto.com/id/1044080542/photo/indian-rasgulla-or-rosogulla-dessert-sweet-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=tdAE1jz-B43HcrqBL7dLSiV9tTchIVuPqFY0nMwrzrs=",
       "steps": [
         "Prepare chenna from curdled milk.",
         "Knead and shape into balls.",
@@ -182,6 +198,7 @@
     {
       "name": "Tandoori Roti",
       "category": "Lunch",
+      "image": "https://media.istockphoto.com/id/1150376593/photo/bread-tandoori-indian-cuisine.jpg?s=612x612&w=0&k=20&c=GGT5LN7G4zLhJTEnP_KcyvYuayi8f1nJcvQwvmj0rCM=",
       "steps": [
         "Prepare dough with whole wheat flour.",
         "Roll into flat circles.",
@@ -193,6 +210,7 @@
     {
       "name": "Palak Paneer",
       "category": "Healthy and Diet",
+      "image": "https://media.istockphoto.com/id/1146291429/photo/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-traditional-indian-food.jpg?s=612x612&w=0&k=20&c=LuY5cNs9p9EonSEqRE8t7xgvCPjLfT2iPYhsg5ZRNkw=",
       "steps": [
         "Blanch and puree spinach leaves.",
         "Sauté onion, tomato, and ginger.",
@@ -204,6 +222,7 @@
     {
       "name": "Falooda",
       "category": "Desserts",
+      "image": "https://media.istockphoto.com/id/809651654/photo/falooda-indian-dessert.jpg?s=612x612&w=0&k=20&c=aK_hSu0yFOcHuBG2zo1VP-IXPsJtGtNx6TURMg9TNPw=",
       "steps": [
         "Soak falooda sev and basil seeds separately.",
         "Layer in glass with rose syrup, sev, basil seeds, milk, and ice cream.",
@@ -214,6 +233,7 @@
     {
       "name": "Hakka Noodles",
       "category": "International Eats",
+      "image": "https://media.istockphoto.com/id/1164078932/photo/collage-with-schezwan-noodles-with-vegetables-in-a-plate.jpg?s=612x612&w=0&k=20&c=E5U_xPY5VFBT0sES19b90TMGeSpZOl60M4IPFrWk2oA=",
       "steps": [
         "Boil noodles and keep aside.",
         "Sauté vegetables in oil with garlic and soy sauce.",

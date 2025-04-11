@@ -1,6 +1,11 @@
-import React from 'react'
+import React from 'react';
+import '../Styles/Home.css';
 
+<<<<<<< HEAD
+const Home = ({ recipes = [] }) => {
+=======
 const Home = ({ recipes }) => {
+>>>>>>> dfc50e8a3cde12fe1b78771de15c9b594b3561dc
   return (
     // <div className='grid-container'>
     //     <div className='grid-item'>
@@ -76,9 +81,41 @@ const Home = ({ recipes }) => {
     //       <h1>International Eats</h1>
     //     </div>
     // </div>
-    <div>
-      <h1>Recipes</h1>
+    <div className='home-container'>
+      <h1 className='title'>🍽️ Recipes</h1>
       <div className='grid-container'>
+<<<<<<< HEAD
+        {recipes.length === 0 ? (
+          <p style={{ textAlign: 'center', width: '100%' }}>No recipes found.</p>
+        ) : (
+          recipes.map((recipe, index) => (
+            <div className='card' key={index}>
+              {recipe.image && (
+                <img
+                  src={recipe.image}
+                  alt={recipe.name || 'Recipe'}
+                  className='recipe-image'
+                />
+              )}
+              <div className='card-content'>
+                <h2>{recipe.name || 'Untitled Recipe'}</h2>
+                <p><strong>Category:</strong> {recipe.category || 'N/A'}</p>
+                <p><strong>Author:</strong> {recipe.author || 'Anonymous'}</p>
+                {recipe.steps && recipe.steps.length > 0 && (
+                  <>
+                    <h4>Steps:</h4>
+                    <ol>
+                      {recipe.steps.map((step, idx) => (
+                        <li key={idx}>{step}</li>
+                      ))}
+                    </ol>
+                  </>
+                )}
+              </div>
+            </div>
+          ))
+        )}
+=======
         {recipes.map((recipe, index) => (
           <div className='grid-item' key={index} style={{ marginBottom: "30px" }}>
             <h2>{recipe.name}</h2>
@@ -100,9 +137,10 @@ const Home = ({ recipes }) => {
               ></iframe>            
           </div>
         ))}
+>>>>>>> dfc50e8a3cde12fe1b78771de15c9b594b3561dc
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;

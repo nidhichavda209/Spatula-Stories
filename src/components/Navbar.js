@@ -1,4 +1,5 @@
 import React from 'react'
+import '../Styles/Navbar.css';
 import Dropdown from './Dropdown'
 
 const Navbar = ({ onCategoryChange }) => {
@@ -15,8 +16,8 @@ const Navbar = ({ onCategoryChange }) => {
     <div class="nav-links">
       <a href="/">Home</a>
         <Dropdown onCategoryChange={onCategoryChange}/>
-      <a href="/add_recipe">Add Recipe</a>
       <a href="/login">Login</a>
+      <a href="/about">About Us</a>
     </div>
   </nav>
   )

@@ -1,5 +1,6 @@
 // Dropdown.js
 import React, { useState, useEffect } from "react";
+import '../Styles/Dropdown.css'
 
 const Dropdown = ({ onCategoryChange }) => {
   const [isChecked, setIsChecked] = useState(false);
