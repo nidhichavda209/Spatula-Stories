@@ -1,7 +1,7 @@
 // AuthPage.jsx
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "/Users/ishikapatel/Desktop/Spatula-Stories/src/components/Login.css"; // Adjust path if needed
+import "../components/login.css"; // Adjust path if needed
 
 const AuthPage = () => {
   const [isLogin, setIsLogin] = useState(true);
