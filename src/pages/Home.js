@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Home = ({recipes}) => {
+const Home = ({ recipes }) => {
   return (
     // <div className='grid-container'>
     //     <div className='grid-item'>
@@ -90,6 +90,14 @@ const Home = ({recipes}) => {
                 <li key={idx}>{step}</li>
               ))}
             </ol>
+            <iframe
+                width="100%"
+                height="250"
+                src={recipe.videoUrl}
+                title={recipe.name}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              ></iframe>            
           </div>
         ))}
       </div>
