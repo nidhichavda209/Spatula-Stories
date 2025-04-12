@@ -21,10 +21,14 @@
   
   /* ========== Page Title ========== */
   .title {
+    background: linear-gradient(to left, #E67E22, #5E2B97);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    font-size: 2.4rem;
+    font-weight: bold;
     text-align: center;
-    font-size: 36px;
-    margin-bottom: 30px;
-    color: #333;
+    margin-top: 30px;
   }
   
   /* ========== Grid Layout for Recipe Cards ========== */
@@ -37,7 +41,7 @@
   
   /* ========== Recipe Card ========== */
   .card {
-    background: #fff;
+    background: linear-gradient(to top, #e4d6f9, transparent);
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);

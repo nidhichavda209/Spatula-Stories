@@ -1,11 +1,7 @@
 import React from 'react';
 import '../Styles/Home.css';
 
-<<<<<<< HEAD
-const Home = ({ recipes = [] }) => {
-=======
 const Home = ({ recipes }) => {
->>>>>>> dfc50e8a3cde12fe1b78771de15c9b594b3561dc
   return (
     // <div className='grid-container'>
     //     <div className='grid-item'>
@@ -82,9 +78,9 @@ const Home = ({ recipes }) => {
     //     </div>
     // </div>
     <div className='home-container'>
-      <h1 className='title'>🍽️ Recipes</h1>
+      <h1 className='title'>Every recipe has a story, and every meal is a memory.</h1>
       <div className='grid-container'>
-<<<<<<< HEAD
+
         {recipes.length === 0 ? (
           <p style={{ textAlign: 'center', width: '100%' }}>No recipes found.</p>
         ) : (
@@ -115,30 +111,7 @@ const Home = ({ recipes }) => {
             </div>
           ))
         )}
-=======
-        {recipes.map((recipe, index) => (
-          <div className='grid-item' key={index} style={{ marginBottom: "30px" }}>
-            <h2>{recipe.name}</h2>
-            <p><strong>Category:</strong> {recipe.category}</p>
-            <p><strong>Author:</strong> {recipe.author}</p>
-            <h4>Steps:</h4>
-            <ol>
-              {recipe.steps.map((step, idx) => (
-                <li key={idx}>{step}</li>
-              ))}
-            </ol>
-            <iframe
-                width="100%"
-                height="250"
-                src={recipe.videoUrl}
-                title={recipe.name}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>            
-          </div>
-        ))}
->>>>>>> dfc50e8a3cde12fe1b78771de15c9b594b3561dc
-      </div>
+        </div>
     </div>
   );
 };
