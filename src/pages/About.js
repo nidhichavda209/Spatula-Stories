@@ -2,16 +2,18 @@ import React from "react";
 
 const About = () => {
   return (
+   <div className="main-container">
+    <div className="image-container">
+      <img src="/assets/Spatula_Stories.png" alt="woman-cooking" />
+    </div>
     <div className="page-container">
       <h1>About Us</h1>
       <p>
         Welcome to <strong>Spatula Stories</strong>! We bring you the best food recipes from all around the world.
-      </p>
-      <p>
         Our mission is to provide delicious and easy-to-follow recipes for every occasion, whether you're a beginner
         cook or a seasoned chef.
       </p>
-
+    
       <h2>Why Choose Us?</h2>
       <ul>
         <li>Over 1,000+ curated recipes from global cuisines</li>
@@ -25,11 +27,9 @@ const About = () => {
       <p>
         Spatula Stories was founded in 2023 by a group of food lovers and culinary experts. What started as a small
         blog has now become a vibrant community of home cooks, food bloggers, and kitchen enthusiasts.
-      </p>
-      <p>
         We believe food is more than just sustenance—it's a way to connect, create memories, and express love.
-      </p>
 
+      </p>
       <h2>Meet the Team</h2>
       <p>
         Behind every recipe is a team of passionate foodies, chefs, and writers dedicated to testing, tasting, and
@@ -54,6 +54,7 @@ const About = () => {
         <li>YouTube: Spatula Stories</li>
       </ul>
     </div>
+    </div> 
   );
 };
 

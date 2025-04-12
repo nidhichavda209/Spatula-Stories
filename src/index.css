@@ -9,8 +9,6 @@
     background-color: #fdfdfd;
   }
 
-<<<<<<< HEAD
-=======
   /* Navbar Container */
   nav {
     background-color: #6a1b9a;
@@ -217,6 +215,7 @@ margin-top: 20px;
   }
 }
 
+
 .grid-container{
     display: grid;
     grid-template-columns: repeat(4,1fr);
@@ -292,12 +291,11 @@ margin-top: 20px;
   padding: 20px;
 }
 
->>>>>>> dfc50e8a3cde12fe1b78771de15c9b594b3561dc
-.page-container {
+/* .page-container {
   max-width: 800px;
   margin: 50px auto;
   padding: 20px;
-  background: #fff;
+  background: #ede7f6;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -315,6 +313,7 @@ margin-top: 20px;
 }
 
 .page-container p, .page-container ul {
+  padding-top:5px ;
   font-size: 16px;
   color: #555;
   line-height: 1.6;
@@ -322,6 +321,67 @@ margin-top: 20px;
 
 .page-container ul {
   padding-left: 20px;
+} */
+
+.main-container{
+  display: flex;
+  align-items: center;
 }
 
+
+/* Enhance About Page Container */
+.page-container {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 40px;
+  /* background:linear-gradient(to bottom, #f1eaff, transparent) ; */
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Main Heading */
+.page-container h1 {
+  color: #6a1b9a;
+  font-size: 2.5rem;
+  border-bottom: 3px solid #6a1b9a;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+
+/* Subheadings */
+.page-container h2 {
+  margin-top: 35px;
+  color: #4a148c;
+  font-size: 1.6rem;
+}
+
+/* Paragraphs and Lists */
+.page-container p,
+.page-container ul {
+  font-size: 16.5px;
+  color: #444;
+  margin-top: 10px;
+  line-height: 1.7;
+}
+
+.page-container ul {
+  padding-left: 25px;
+  list-style-type: disc;
+}
+
+/* Link Style */
+.page-container a {
+  color: #6a1b9a;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.page-container a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: Add some spacing at the bottom of the page */
+.page-container:last-child {
+  margin-bottom: 80px;
+}
 
