@@ -1,9 +1,8 @@
-// AuthPage.jsx
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "../Styles/Login.css"; // Adjust path if needed
+import "../Styles/Login.css"; 
 
-const AuthPage = () => {
+const Login = () => {
   const [isLogin, setIsLogin] = useState(true);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -25,15 +24,15 @@ const AuthPage = () => {
     }
 
     if (isLogin) {
-      // Mock login
+      // Mock login validation
       if (email === "user@example.com" && password === "password") {
         alert("Login successful!");
-        navigate("/");
+        navigate("/"); // Redirect to home page
       } else {
         setError("Invalid login credentials.");
       }
     } else {
-      // Mock signup
+      // Mock signup logic
       alert("Account created successfully!");
       setIsLogin(true); // Switch to login
     }
@@ -54,7 +53,6 @@ const AuthPage = () => {
               required
             />
           </div>
-
           <div className="input-group">
             <label htmlFor="password">Password</label>
             <input
@@ -65,7 +63,6 @@ const AuthPage = () => {
               required
             />
           </div>
-
           {!isLogin && (
             <div className="input-group">
               <label htmlFor="confirmPassword">Confirm Password</label>
@@ -78,13 +75,10 @@ const AuthPage = () => {
               />
             </div>
           )}
-
           {error && <p className="error">{error}</p>}
-
           <button type="submit" className="auth-button">
             {isLogin ? "Login" : "Sign Up"}
           </button>
-
           <p className="toggle-text">
             {isLogin ? "Don't have an account?" : "Already have an account?"}{" "}
             <span
@@ -103,4 +97,4 @@ const AuthPage = () => {
   );
 };
 
-export default AuthPage;
+export default Login;
