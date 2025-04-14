@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="page-container">
+    <div className="contact-page-container">
       <h1>Contact Us</h1>
       <p>Have questions or feedback? We'd love to hear from you!</p>
 

@@ -329,7 +329,7 @@ margin-top: 20px;
 }
 
 
-/* Enhance About Page Container */
+/* Enhance Contact Page Container */
 .page-container {
   max-width: 900px;
   margin: 60px auto;
@@ -385,3 +385,159 @@ margin-top: 20px;
   margin-bottom: 80px;
 }
 
+
+/* About us page */
+
+.contact-page-container {
+  max-width: 750px;
+  margin: 60px auto;
+  padding: 40px;
+  background-color: #eae2f6;
+  border-radius: 20px;
+  box-shadow: 0 12px 24px rgba(106, 27, 154, 0.2);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.contact-page-container h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #6a1b9a;
+  text-align: center;
+  border-bottom: 2px solid #E67E22;
+  padding-bottom: 10px;
+}
+
+.contact-page-container h2 {
+  margin-top: 30px;
+  font-size: 1.5rem;
+  color: #E67E22;
+  border-left: 5px solid #6a1b9a;
+  padding-left: 10px;
+}
+
+.contact-page-container p {
+  font-size: 1.1rem;
+  margin: 10px 0 15px;
+  line-height: 1.7;
+  color: #4a235a;
+}
+
+.contact-page-container a {
+  color: #6a1b9a;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.contact-page-container a:hover {
+  color: #E67E22;
+  text-decoration: underline;
+  letter-spacing: 0.5px;
+}
+
+.contact-page-container a::before {
+  content: "➤ ";
+  color: #E67E22;
+}
+
+@media screen and (max-width: 768px) {
+  .contact-page-container {
+    padding: 25px;
+  }
+
+  .contact-page-container h1 {
+    font-size: 2.2rem;
+  }
+
+  .contact-page-container h2 {
+    font-size: 1.3rem;
+  }
+}
+
+/* Privacy Policy page */
+.privacy-page-container {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 40px;
+  background-color: #eae2f6;
+  border-radius: 20px;
+  box-shadow: 0 12px 24px rgba(106, 27, 154, 0.15);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.privacy-page-container h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #6a1b9a;
+  text-align: center;
+  border-bottom: 3px solid #E67E22;
+  padding-bottom: 12px;
+}
+
+.privacy-page-container h2 {
+  margin-top: 30px;
+  font-size: 1.6rem;
+  color: #E67E22;
+  border-left: 6px solid #6a1b9a;
+  padding-left: 12px;
+}
+
+.privacy-page-container p {
+  font-size: 1.1rem;
+  margin: 10px 0 15px;
+  line-height: 1.8;
+  color: #4a235a;
+}
+
+.privacy-page-container ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.privacy-page-container li {
+  margin-bottom: 10px;
+  font-size: 1.05rem;
+  color: #2c2c54;
+  position: relative;
+  padding-left: 20px;
+}
+
+.privacy-page-container li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  color: #6a1b9a;
+  font-weight: bold;
+}
+
+strong {
+  color: #6a1b9a;
+}
+
+@media screen and (max-width: 768px) {
+  .privacy-page-container {
+    padding: 25px;
+  }
+
+  .privacy-page-container h1 {
+    font-size: 2.2rem;
+  }
+
+  .privacy-page-container h2 {
+    font-size: 1.3rem;
+  }
+}
