@@ -2,7 +2,12 @@
   {
     "name": "Poha",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe-500x500.jpg",
+    "image": "https://media.istockphoto.com/id/1198052406/photo/poha-a-traditional-indian-breakfastac.jpg?s=612x612&w=0&k=20&c=lAg6L8Co_--s2Zu00kctvAqMj0qN3xGRDjIIDeBj1nM=",
+    "videos": [
+      "https://youtu.be/UXaOuBoatUA?t=2",
+      "https://youtu.be/92D8P1mamrQ?t=48",
+      "https://youtu.be/oA1K6s03DlI?t=3"
+    ],
     "steps": [
       "Rinse poha in water and drain.",
       "Heat oil, add mustard seeds, curry leaves, green chilies, and peanuts.",
@@ -14,7 +19,12 @@
   {
     "name": "Idli with Coconut Chutney",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/idli-recipe.jpg",
+    "image": "https://media.istockphoto.com/id/1219922412/photo/idly-or-rice-cake-originating-from-the-indian-subcontinent-popular-as-breakfast-foods-in.jpg?s=612x612&w=0&k=20&c=T0DtmiYEfX9S8DnShiNivLEbd4Rhtb13zNqNZ2vJ6xk=",
+    "videos": [
+        "https://www.youtube.com/watch?v=HFTubBeTrQ8",
+        "https://www.youtube.com/watch?v=G3-FcHybhjk",
+        "https://www.youtube.com/watch?v=IRUjleuYv_E"
+    ],
     "steps": [
       "Soak and grind rice and urad dal to make batter. Ferment overnight.",
       "Pour batter into idli molds and steam for 10-12 minutes.",
@@ -26,7 +36,12 @@
   {
     "name": "Aloo Paratha",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/aloo-paratha.jpg",
+    "image": "https://media.istockphoto.com/id/1432760289/photo/aloo-paratha-or-potato-stuffed-flat-bread-on-a-wooden-background-served-with-curd-and-sauce.jpg?s=612x612&w=0&k=20&c=_LMnQIp4ri0hhqCVf4uzJsagVWkZYW_3P86t5LZybPI=",
+    "videos": [
+      "https://www.youtube.com/watch?v=7NGOIKtFu3Q",
+      "https://www.youtube.com/watch?v=jLmYDZ2zjSg",
+      "https://www.youtube.com/watch?v=IpqpnRwgWIY"
+    ],
     "steps": [
       "Prepare dough using wheat flour and water.",
       "Boil and mash potatoes with spices like cumin, garam masala, and coriander.",
@@ -38,7 +53,12 @@
   {
     "name": "Thepla",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/thepla.jpg",
+    "image": "https://media.istockphoto.com/id/1232175343/photo/methi-paratha-indian-flat-bread-using-fenugreek-leaves.jpg?s=612x612&w=0&k=20&c=4S0iwDuPNztyw4wOnSjvevIrerZNnrUA7mYkTAM1_Fw=",
+    "videos": [
+    "https://www.youtube.com/watch?v=MTqCvLdQ21o",
+    "https://www.youtube.com/watch?v=bwkdIEYrQHo",
+    "https://www.youtube.com/watch?v=rVh66zZywTI"
+    ],
     "steps": [
       "Knead wheat flour with methi leaves, spices, curd, and a little oil.",
       "Roll into thin discs like chapati.",
@@ -49,7 +69,12 @@
   {
     "name": "Moong Dal Chilla",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/moong-dal-chilla.jpg",
+    "image": "https://media.istockphoto.com/id/1465606832/photo/indian-food-moong-dal-chilla-is-ready-to-eat.jpg?s=612x612&w=0&k=20&c=BOAiUpYPA6ToU5pAMOSk5rrX77KAG_7weBH1Jk56-6w=",
+    "videos": [
+    "https://www.youtube.com/watch?v=AbsBX4g5QGw",
+    "https://www.youtube.com/watch?v=2I1NZa76wyY",
+    "https://www.youtube.com/watch?v=6JXC5N9hF6k"
+    ],
     "steps": [
       "Soak moong dal for 2 hours and grind to a smooth batter.",
       "Add ginger, green chili, and salt.",
@@ -60,7 +85,12 @@
   {
     "name": "Dhokla",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/khaman-dhokla.jpg",
+    "image": "https://media.istockphoto.com/id/1406488768/photo/gujarati-khaman-dhokla-made-using-chana-dal-served-with-green-chutney-selective-focus.jpg?s=612x612&w=0&k=20&c=dGWG-Q3fLaL-KcJqkxW3lbHLXELhGIj0cpgxRmyoX0w=",
+    "videos": [
+    "https://www.youtube.com/watch?v=97-Y-XeYN88",
+    "https://www.youtube.com/watch?v=w_2eb9uaXns",
+    "https://www.youtube.com/watch?v=PSeftKlbJNQ"
+    ],
     "steps": [
       "Prepare a batter with besan, curd, and water.",
       "Add ENO fruit salt just before steaming.",
@@ -72,7 +102,12 @@
   {
     "name": "Rava Idli",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/rava-idli.jpg",
+    "image": "https://media.istockphoto.com/id/547500002/photo/cooked-semolina-cakes-known-as-rava-idli-or-idly.jpg?s=612x612&w=0&k=20&c=zYNcQh_KU1UESlT0CRPy_ejXyWxFaniapNzeRAriQPQ=",
+    "videos": [
+    "https://www.youtube.com/watch?v=zHhhZeaVLzw",
+    "https://www.youtube.com/watch?v=eeTkNwj8VZI",
+    "https://www.youtube.com/watch?v=VDcD6B4g_co"
+    ],
     "steps": [
       "Roast rava in ghee and cool.",
       "Mix with curd, grated carrot, chopped coriander, and ENO.",
@@ -84,6 +119,11 @@
     "name": "Sabudana Khichdi",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/sabudana-khichdi-recipe.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=N4gbP2QU2fk",
+    "https://www.youtube.com/watch?v=AoKUxfiRIbk",
+    "https://www.youtube.com/watch?v=KChLMDchyf4"
+    ],
     "steps": [
       "Soak sabudana for 4-6 hours, then drain.",
       "Heat ghee, add cumin seeds, green chilies, and peanuts.",
@@ -94,7 +134,12 @@
   {
     "name": "Uttapam",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/uttapam-recipe.jpg",
+    "image": "https://media.istockphoto.com/id/2161941112/photo/uttapam-south-india-breakfast.jpg?s=612x612&w=0&k=20&c=2oplOFi4IP9SbMt2FaU-qolHUtsJ913cXM5z7PYqb4M=",
+    "videos": [
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4",
+    "https://www.youtube.com/watch?v=2IMWlViah88",
+    "https://www.youtube.com/watch?v=qulwctXHwT4"
+    ],
     "steps": [
       "Use fermented dosa batter.",
       "Pour thick batter on tawa and top with chopped onions, tomatoes, and chilies.",
@@ -105,7 +150,12 @@
   {
     "name": "Bread Upma",
     "category": "Breakfast",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/bread-upma.jpg",
+    "image": "https://media.istockphoto.com/id/1298415706/photo/a-bowl-of-homemade-freshly-prepared-bread-upma-a-savory-and-spicy-south-indian-bread-dish.jpg?s=612x612&w=0&k=20&c=gWQkDkqlFQgu30k_IUqgB5ZlAMll7Tz9sU51jt03WbI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=dKs5hv7A1Sg",
+    "https://www.youtube.com/watch?v=8o5YP5HOrlA",
+    "https://www.youtube.com/watch?v=LTQ9omVVrjI"
+    ],
     "steps": [
       "Cut bread into cubes.",
       "Saut\u00e9 mustard seeds, curry leaves, onions, tomatoes, and spices.",
@@ -116,7 +166,12 @@
   {
     "name": "Rajma Chawal",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/rajma-chawal.jpg",
+    "image": "https://media.istockphoto.com/id/1214464511/photo/rajma-chawal-indian-vegan-food-directly-above-stock-photo.jpg?s=612x612&w=0&k=20&c=HbW81gCaNmrhLPgeG54jJr8aGThC9D9ymdFdKMpL1KI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=M_ncAJhIaIU",
+    "https://www.youtube.com/watch?v=asY7cq6j0xE",
+    "https://www.youtube.com/watch?v=xUglk5JQvPM"
+    ],
     "steps": [
       "Soak rajma overnight and pressure cook until soft.",
       "In a pan, saut\u00e9 onions, ginger, garlic, and tomatoes.",
@@ -128,7 +183,12 @@
   {
     "name": "Baingan Bharta",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/baingan-bharta.jpg",
+    "image": "https://media.istockphoto.com/id/1437118868/photo/dhaba-style-baingan-bharta-or-mashed-eggplant-curry.jpg?s=612x612&w=0&k=20&c=cUr_zcxvLawS3mGnlw3Ln04N6jWr9UDcr8rGmiupxLQ=",
+    "videos": [
+    "https://www.youtube.com/watch?v=oEOzzoAM7Sc",
+    "https://www.youtube.com/watch?v=-84Zz2EP4h4",
+    "https://www.youtube.com/watch?v=U-Km4u20cI8"
+    ],
     "steps": [
       "Roast brinjal on open flame until soft and peel skin.",
       "Mash and set aside.",
@@ -140,7 +200,12 @@
   {
     "name": "Matar Paneer",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/matar-paneer.jpg",
+    "image": "https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=SShuhVPIWBpUaJXqvdWqjPrh0AqsR6VR68GInZlyw6Y=",
+    "videos": [
+    "https://www.youtube.com/watch?v=iabalDLbn5s",
+    "https://www.youtube.com/watch?v=OqpkqAgeHkE",
+    "https://www.youtube.com/watch?v=H2mMY3XPsOI"
+    ],
     "steps": [
       "Fry paneer cubes lightly and set aside.",
       "In oil, saut\u00e9 onions, tomatoes, and ginger garlic paste.",
@@ -152,7 +217,12 @@
   {
     "name": "Kadhi Pakora",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/kadhi-pakora.jpg",
+    "image": "https://media.istockphoto.com/id/974903414/photo/kadhi-pakoda-or-pakora-indian-cuisine-selective-focus.jpg?s=612x612&w=0&k=20&c=fHiwF4SyPiPum5M_73z3utWoLuH3S-ImaRlIswScoDI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=P_v82RlPbSE",
+    "https://www.youtube.com/watch?v=EPxfnt7jqK4",
+    "https://www.youtube.com/watch?v=h5V1YVIqd-4"
+    ],
     "steps": [
       "Make gram flour pakoras and fry until golden.",
       "Whisk curd with gram flour, turmeric, and water.",
@@ -164,7 +234,12 @@
   {
     "name": "Aloo Tamatar ki Sabzi",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-tamatar-curry.jpg",
+    "image": "https://media.istockphoto.com/id/1088001024/photo/indian-food-aloo-curry-masala-potato-cooked-with-spices-and-herbs-in-a-tomato-curry-served-in.jpg?s=612x612&w=0&k=20&c=SPN3SPN2vGU8Splku7nyQbvl-pHSadD0c2if3ZnpAZo=",
+    "videos": [
+    "https://www.youtube.com/watch?v=c8IBSviKWbo",
+    "https://www.youtube.com/watch?v=JWvA7vy_PNs",
+    "https://www.youtube.com/watch?v=Y7Kq0Gxq0l0"
+    ],
     "steps": [
       "Boil and cube potatoes.",
       "In a pan, saut\u00e9 cumin seeds, ginger, and green chilies.",
@@ -176,7 +251,12 @@
   {
     "name": "Lauki Chana Dal",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/lauki-chana-dal.jpg",
+    "image": "https://media.istockphoto.com/id/1403328916/photo/closeup-of-indian-curry-sabzi-in-a-bowl-prepared-with-dudhi-vegetable-and-chana-dal.jpg?s=612x612&w=0&k=20&c=eX7Lop2dJbSY7CuT7Nof7Zqr-nHOK2GFttqduSNTph0=",
+    "videos": [
+    "https://www.youtube.com/watch?v=ZC3E_UJNL8U",
+    "https://www.youtube.com/watch?v=d-4R1MemAo8",
+    "https://www.youtube.com/watch?v=NnUyvIXmkgc"
+    ],
     "steps": [
       "Soak chana dal for 1 hour and boil.",
       "Saut\u00e9 onions, tomatoes, and spices.",
@@ -188,7 +268,12 @@
   {
     "name": "Jeera Rice",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/jeera-rice.jpg",
+    "image": "https://media.istockphoto.com/id/609930740/photo/jeera-rice-cumin-rice.jpg?s=612x612&w=0&k=20&c=D0eo5vuexF1DpPqpmXZ6TXKJY59IKHz00YFmzlhkImk=",
+    "videos": [
+      "https://www.youtube.com/watch?v=raUlcCUnEZs",
+      "https://www.youtube.com/watch?v=482su5EwL8w",
+      "https://www.youtube.com/watch?v=RW-bkcqvUMI"
+    ],
     "steps": [
       "Heat ghee and fry cumin seeds until aromatic.",
       "Add soaked basmati rice and saut\u00e9 gently.",
@@ -199,7 +284,12 @@
   {
     "name": "Chana Masala",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/chole-recipe.jpg",
+    "image": "https://media.istockphoto.com/id/1223625174/photo/spicy-chana-masala.jpg?s=612x612&w=0&k=20&c=2jLDq4ZcYvnnpIVLeBX_e7npBLi7lj3nFeKrY5Lco-k=",
+    "videos": [
+    "https://www.youtube.com/watch?v=W9jQkOyjmAs",
+    "https://www.youtube.com/watch?v=0ATENI8GRDw",
+    "https://www.youtube.com/watch?v=NN-IxZe_Oew"
+    ],
     "steps": [
       "Soak and boil chickpeas until soft.",
       "Saut\u00e9 onions, tomatoes, and ginger garlic paste.",
@@ -211,7 +301,12 @@
   {
     "name": "Tinda Masala",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/tinda-sabzi.jpg",
+    "image": "https://media.istockphoto.com/id/1124525462/photo/tindora-sabzi-tendli-tondli-fry-also-known-as-ivy-gourd-fry-recipe-selective-focus.jpg?s=612x612&w=0&k=20&c=fmckWMnwtRv_iseiAl-RT8K1_OS3uaVGHkjn_LtXUrA=",
+    "videos": [
+    "https://www.youtube.com/watch?v=qecFsrnTyN8",
+    "https://www.youtube.com/watch?v=0HucLn4Dpn4",
+    "https://www.youtube.com/watch?v=0HucLn4Dpn4"
+    ],
     "steps": [
       "Peel and chop tinda.",
       "Saut\u00e9 cumin seeds, onions, and tomatoes.",
@@ -223,7 +318,12 @@
   {
     "name": "Palak Dal",
     "category": "Lunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/spinach-dal.jpg",
+    "image": "https://media.istockphoto.com/id/807448108/photo/simple-palak-dal-or-spinach-dal.jpg?s=612x612&w=0&k=20&c=YqaK24rH2IS97FxrATpb1hQ2zDokKLULg2LhKUadPYg=",
+    "videos": [
+    "https://www.youtube.com/watch?v=9kvkhxa3K_w",
+    "https://www.youtube.com/watch?v=HZ67I0Ry3wI",
+    "https://www.youtube.com/watch?v=UXMAqIy5dKI"
+    ],
     "steps": [
       "Pressure cook dal with turmeric and green chilies.",
       "Saut\u00e9 garlic, onions, and tomatoes in ghee.",
@@ -235,7 +335,12 @@
   {
     "name": "Pav Bhaji",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/pav-bhaji.jpg",
+    "image": "https://media.istockphoto.com/id/1413557034/photo/indian-mumbai-street-style-pav-bhaji-garnished-with-peas-raw-onions-coriander-and-butter.jpg?s=612x612&w=0&k=20&c=Egw7wRqIHwKPtZfJujwrTiUMQUxxLJOO0iri-jSZRHA=",
+    "videos": [
+    "https://www.youtube.com/watch?v=rSLiOqJ2egU",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+],
     "steps": [
       "Boil vegetables like potatoes, peas, and carrots.",
       "Mash them and cook with butter, onions, tomatoes, and pav bhaji masala.",
@@ -246,7 +351,12 @@
   {
     "name": "Misal Pav",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/misal-pav.jpg",
+    "image": "https://media.istockphoto.com/id/2168401768/photo/authentic-maharashtrain-spicy-misal-pav-with-black-background-misal-pav-is-a-food-of-usal.jpg?s=612x612&w=0&k=20&c=CYeQHttspckqQ8WEsGJHSrmnclsMXcgtvhDBkBI7gn4=",
+    "videos": [
+    "https://www.youtube.com/watch?v=MYZHbLlLP8k",
+    "https://www.youtube.com/watch?v=gJXeu2Eih60",
+    "https://www.youtube.com/watch?v=2_BkfGRcx3o"
+    ],
     "steps": [
       "Cook sprouted matki beans with spicy masala gravy.",
       "Top with farsan and chopped onions.",
@@ -256,7 +366,12 @@
   {
     "name": "Kanda Poha",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/kanda-poha.jpg",
+    "image": "https://media.istockphoto.com/id/1093268666/photo/aloo-kanda-poha-or-tarri-pohe-with-spicy-chana-masala-curry-selective-focus.jpg?s=612x612&w=0&k=20&c=CscGdm1kJ-3y0JxdLuVhMlYbj4Mripy3L-BcY3fe2v4=",
+    "videos": [
+    "https://www.youtube.com/watch?v=2_BkfGRcx3o",
+    "https://www.youtube.com/watch?v=jODnSnhbIbQ",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ"
+],
     "steps": [
       "Rinse poha and let it sit.",
       "Saut\u00e9 mustard seeds, green chilies, and onions.",
@@ -267,7 +382,12 @@
   {
     "name": "Vegetable Sandwich",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/vegetable-sandwich.jpg",
+    "image": "https://media.istockphoto.com/id/1221237754/photo/two-halves-of-club-sandwich-on-white.jpg?s=612x612&w=0&k=20&c=jTThChWPJoFPxOdW1F4I-UzDqzS97iIgTm4-JJe-gOQ=",
+    "videos": [
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+],
     "steps": [
       "Butter bread slices and apply green chutney.",
       "Layer sliced cucumber, tomato, beetroot, and potato.",
@@ -278,7 +398,12 @@
   {
     "name": "Bread Pakora",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/bread-pakora.jpg",
+    "image": "https://media.istockphoto.com/id/1209039610/photo/bread-alu-pakora.jpg?s=612x612&w=0&k=20&c=Dayl3pV2NSwooNrMoTEQwif3rEbv-4Csl3ZyEDNG3Ek=",
+    "videos": [
+      "https://www.youtube.com/watch?v=ku2bfXRQdfs",
+      "https://www.youtube.com/watch?v=nnRdFlBtF2Y",
+      "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+  ],
     "steps": [
       "Make potato filling with spices.",
       "Stuff between two bread slices and dip in gram flour batter.",
@@ -289,7 +414,12 @@
   {
     "name": "Chole Kulche",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/chole-kulche.jpg",
+    "image": "https://media.istockphoto.com/id/1335023693/photo/chole-kulche.jpg?s=612x612&w=0&k=20&c=Y1HislYAUVWgwKS1QWlfc6SwDcQK4BtF99QF4IYpo00=",
+    "videos": [
+    "https://www.youtube.com/watch?v=WLPOyKOogJg",
+    "https://www.youtube.com/watch?v=lQ5VagHI3q0",
+    "https://www.youtube.com/watch?v=MYZHbLlLP8k"
+],
     "steps": [
       "Boil white chickpeas and prepare spicy chole masala.",
       "Heat kulche with butter.",
@@ -299,7 +429,12 @@
   {
     "name": "Egg Bhurji with Toast",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/egg-bhurji.jpg",
+    "image": "https://media.istockphoto.com/id/545269822/photo/egg-anda-bhurji-or-spicy-scrambled-eggs-and-bread.jpg?s=612x612&w=0&k=20&c=c3LSPH5v067yQYIYy8yBS6C4ZbIH_cCVrRSvxtXRESI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=4Ls4xFBW3kQ",
+    "https://www.youtube.com/watch?v=x0RFlAcS6Aw",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ"
+],
     "steps": [
       "Scramble eggs with onion, tomato, and spices.",
       "Cook until fluffy and garnish with coriander.",
@@ -309,7 +444,12 @@
   {
     "name": "Batata Vada",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/batata-vada.jpg",
+    "image": "https://media.istockphoto.com/id/692419218/photo/batata-vada-with-garlic-and-mint-chutney-and-chilli-on-white-plate.jpg?s=612x612&w=0&k=20&c=ZdHrgh0dLZgR_5Yn-AzYwfb_kTZqUlfz-zxVeruJqZ4=",
+    "videos": [
+      "https://www.youtube.com/watch?v=tZjCcyWSDiI",
+      "https://www.youtube.com/watch?v=vxsZ3EM8KsY",
+      "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+  ],
     "steps": [
       "Prepare spiced mashed potato filling.",
       "Dip balls in gram flour batter and deep fry.",
@@ -319,7 +459,12 @@
   {
     "name": "Rava Uttapam",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/rava-uttapam.jpg",
+    "image": "https://media.istockphoto.com/id/1265553451/photo/south-indian-food-uttapam.jpg?s=612x612&w=0&k=20&c=ERiKnp7R8ghQoW_YShZ0PouEA6O-rHEEW1nWuxxJpkk=",
+    "videos": [
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4",
+    "https://www.youtube.com/watch?v=L2ZEPBiaDWw",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+],
     "steps": [
       "Make batter with rava, curd, and water.",
       "Pour on tawa and top with onions, tomatoes, and chilies.",
@@ -329,7 +474,13 @@
   {
     "name": "Sabudana Thalipeeth",
     "category": "Brunch",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/sabudana-thalipeeth.jpg",
+    "image": "https://media.istockphoto.com/id/2168715589/video/a-delicious-chilla-or-chila-served-in-a-white-ceramic-plate.jpg?s=640x640&k=20&c=MqU--rYL58Qsc6SeJRUtBgvVqGU-N9xvKSablRbw3r4=",
+    
+    "videos": [
+      "https://www.youtube.com/watch?v=CezjeTmvTmA",
+      "https://www.youtube.com/watch?v=6dtzeoKY8UY",
+      "https://www.youtube.com/watch?v=BiO1SXyRAs4"
+    ],
     "steps": [
       "Mix soaked sabudana, mashed potatoes, and spices.",
       "Flatten and cook on tawa until crisp.",
@@ -339,7 +490,12 @@
   {
     "name": "Butter Chicken",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/butter-chicken.jpg",
+    "image": "https://media.istockphoto.com/id/1170729895/photo/indian-butter-chicken-horizontal-photo.jpg?s=612x612&w=0&k=20&c=4bZViynoVnP1HaWHIY1k5FvW-dj9DM2EOMHbKnAqYZ4=",
+    "videos": [
+      "https://www.youtube.com/watch?v=a03U45jFxOI",
+      "https://www.youtube.com/watch?v=vjKEUBg-ziY",
+      "https://www.youtube.com/watch?v=WLPOyKOogJg"
+  ],
     "steps": [
       "Marinate chicken with yogurt and spices for 6 hours.",
       "Cook chicken in a tandoor or pan until browned.",
@@ -351,7 +507,12 @@
   {
     "name": "Hyderabadi Biryani",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/hyderabadi-biryani.jpg",
+    "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=612x612&w=0&k=20&c=9xEw3VOQSz9TP8yQr60L47uExyKF9kogRhQdlghlC00=",
+    "videos": [
+      "https://www.youtube.com/watch?v=VI0LQaIkVf8",
+      "https://www.youtube.com/watch?v=CVyJ2IXW8_s",
+      "https://www.youtube.com/watch?v=a03U45jFxOI"
+  ],
     "steps": [
       "Marinate meat with yogurt, fried onions, and biryani spices.",
       "Partially cook basmati rice separately.",
@@ -363,7 +524,12 @@
   {
     "name": "Dal Tadka",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/dal-tadka.jpg",
+    "image": "https://media.istockphoto.com/id/1205482038/photo/dal-tadka-cooked-lentils-which-are-lastly-tempered-with-oil-or-ghee-fried-spices-herbs.jpg?s=612x612&w=0&k=20&c=mQ-ECflpl5ppQM-124QrQi-DDyrKsSnX36GpIyMjB3A=",
+    "videos": [
+    "https://www.youtube.com/watch?v=VI0LQaIkVf8",
+    "https://www.youtube.com/watch?v=CVyJ2IXW8_s",
+    "https://www.youtube.com/watch?v=a03U45jFxOI"
+],
     "steps": [
       "Pressure cook toor dal with turmeric.",
       "In ghee, temper cumin, garlic, onions, and tomatoes.",
@@ -375,7 +541,12 @@
   {
     "name": "Malai Kofta",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/malai-kofta.jpg",
+    "image": "https://media.istockphoto.com/id/1219174110/photo/malai-kofta-curry-in-black-bowl-at-dark-slate-background-malai-kofta-is-indian-cuisine-dish.jpg?s=612x612&w=0&k=20&c=YBusjVmB35Q0AAFuMs48KRLNgnDQuL1dONJ0EBYwS9M=",
+    "videos": [
+    "https://www.youtube.com/watch?v=O7mhMWNCRGE",
+    "https://www.youtube.com/watch?v=c8Lh4vzSQG0",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+    ],
     "steps": [
       "Prepare koftas using paneer and potatoes, deep fry till golden.",
       "Make creamy tomato-cashew gravy with spices.",
@@ -385,7 +556,12 @@
   {
     "name": "Chicken Chettinad",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/chicken-chettinad.jpg",
+    "image": "https://media.istockphoto.com/id/1156501972/photo/spicy-chicken-chettinad-in-a-clay-pot.jpg?s=612x612&w=0&k=20&c=dmxl9MnS66dIofMYDK64sZIVK1kwdkccirZtVjspicc=",
+    "videos": [
+      "https://www.youtube.com/watch?v=zVYa0abkdkE",
+      "https://www.youtube.com/watch?v=eajGpPvTEXc",
+      "https://www.youtube.com/watch?v=NY7_WdL7TX0"
+    ],
     "steps": [
       "Marinate chicken with yogurt and spices.",
       "Saut\u00e9 onions, tomatoes, and Chettinad masala.",
@@ -396,7 +572,12 @@
   {
     "name": "Gobi Paratha",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/gobi-paratha.jpg",
+    "image": "https://media.istockphoto.com/id/900284552/photo/green-peas-paratha-or-matar-ka-paratha-which-is-a-traditional-and-popular-food-native-to-north.jpg?s=612x612&w=0&k=20&c=Olu6WWKMIkhGU35b82wuBDjJYCDAtmxUYc4sc5Peetw=",
+    "videos": [
+      "https://www.youtube.com/watch?v=2WzNEb9EEMg",
+      "https://www.youtube.com/watch?v=4-EMTzURgXg",
+      "https://www.youtube.com/watch?v=8ifpeFVgagc"
+],
     "steps": [
       "Prepare dough using wheat flour.",
       "Grate cauliflower and mix with spices.",
@@ -407,7 +588,12 @@
   {
     "name": "Veg Pulao",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/veg-pulao.jpg",
+    "image": "https://media.istockphoto.com/id/1222031490/photo/veg-pulao-with-paneer-tikka-masala-and-lachha-paratha.jpg?s=612x612&w=0&k=20&c=ujCLDaBrUQvJblBIUApoRhf4tZ4qLs1pe1Zd1Yq-kXk=",
+    "videos": [
+      "https://www.youtube.com/watch?v=G7z5p5Z1x1A",
+      "https://www.youtube.com/watch?v=J5z5p5Z1x1B",
+      "https://www.youtube.com/watch?v=K5z5p5Z1x1C"
+    ],
     "steps": [
       "Saut\u00e9 whole spices, onions, and mixed vegetables.",
       "Add soaked basmati rice and water.",
@@ -418,7 +604,12 @@
   {
     "name": "Paneer Butter Masala",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/paneer-butter-masala.jpg",
+    "image": "https://media.istockphoto.com/id/1305516669/photo/shahi-paneer-or-paneer-kadai.jpg?s=612x612&w=0&k=20&c=DO--pEfzfOdpResHc3m4JJQVSvHrNtK58zbC4xl4yaU=",
+    "videos": [
+      "https://www.youtube.com/watch?v=pjJgCXx_FRk",
+      "https://www.youtube.com/watch?v=O0Y-ppH8Ajk",
+      "https://www.youtube.com/watch?v=Y6mJJvbEKBI"
+    ],
     "steps": [
       "Saut\u00e9 onions, tomatoes, and cashews, blend into a smooth paste.",
       "Cook paste with butter and spices.",
@@ -429,7 +620,12 @@
   {
     "name": "Fish Curry with Rice",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/fish-curry.jpg",
+    "image": "https://media.istockphoto.com/id/479660444/photo/shrimps-curry-with-rice-on-plate-horizontal-view-from-above.jpg?s=612x612&w=0&k=20&c=yveJCQqVBdMSKVxQ6Fb1Q0mYm2JH1gEvBOhYOzcbPRE=",
+    "videos": [
+      "https://www.youtube.com/watch?v=kjx5wDoY_n8",
+      "https://www.youtube.com/watch?v=o4VcIrtoMUI",
+      "https://www.youtube.com/watch?v=N5MoJx_4-mk"
+  ],
     "steps": [
       "Marinate fish with turmeric and salt.",
       "Prepare gravy with coconut, tamarind, onions, and spices.",
@@ -440,7 +636,12 @@
   {
     "name": "Methi Thepla with Yogurt",
     "category": "Dinner",
-    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/methi-thepla.jpg",
+    "image": "https://media.istockphoto.com/id/1330523075/photo/whole-wheat-methi-thepla-rolls-with-paneer-capsicum-filling-and-a-bowl-of-masala-curd.jpg?s=612x612&w=0&k=20&c=XPTD_GxNlrBN4nhwJZmF4_tAfb3RmtYVx_Vuko2IHB0=",
+    "videos": [
+      "https://www.youtube.com/watch?v=RcepvdxUvf0",
+      "https://www.youtube.com/watch?v=6VTznQZ0x4c",
+      "https://www.youtube.com/watch?v=iPO-8KVOpvg"
+  ],
     "steps": [
       "Mix wheat flour, chopped methi, yogurt, and spices.",
       "Knead into dough and rest.",
@@ -451,7 +652,12 @@
   {
     "name": "Gulab Jamun",
     "category": "Desserts",
-    "image": "https://example.com/images/gulab-jamun.jpg",
+    "image": "https://media.istockphoto.com/id/1424509973/photo/gulab-jamun-an-indian-dessert.jpg?s=612x612&w=0&k=20&c=nNXYGIMY7z4bBq6sRBlgoHbAJN5p75GhW0hVZ8uWhAM=",
+    "videos": [
+      "https://www.youtube.com/watch?v=An5NHoUzQQg",
+      "https://www.youtube.com/watch?v=QFvd7u_YjVk",
+      "https://www.youtube.com/watch?v=5MUQ840KTHY"
+    ],
     "steps": [
       "Mix khoya, maida, and baking soda to form a soft dough.",
       "Make small balls from the dough and deep fry on low heat until golden brown.",
@@ -463,7 +669,7 @@
   {
     "name": "Falooda",
     "category": "Desserts",
-    "image": "https://example.com/images/falooda.jpg",
+    "image": "https://media.istockphoto.com/id/1152132428/photo/falooda-faluda-is-a-popular-indian-dessert.jpg?s=612x612&w=0&k=20&c=YUeKTtzVmp4oDnqEPCi-SSkr5W9JbR5iHTivU9xzKr0=",
     "steps": [
       "Cook falooda sev as per packet instructions and chill.",
       "In a glass, layer soaked basil seeds, sev, rose syrup, and cold milk.",
@@ -475,7 +681,7 @@
   {
     "name": "Rasmalai",
     "category": "Desserts",
-    "image": "https://example.com/images/rasmalai.jpg",
+    "image": "https://media.istockphoto.com/id/1441840881/photo/appetizing-traditional-ras-malai-indian-sweet-dish-soft-paneer-balls-immersed-in-creamy-milk.jpg?s=612x612&w=0&k=20&c=9Z7seuhg0eEjvUq8ykjIftkfydKsNLsLq-smHBvZwMg=",
     "steps": [
       "Boil milk and curdle it using lemon juice to make chenna.",
       "Knead chenna and form flat balls, then cook in sugar syrup.",
@@ -487,7 +693,7 @@
   {
     "name": "Kheer",
     "category": "Desserts",
-    "image": "https://example.com/images/kheer.jpg",
+    "image": "https://media.istockphoto.com/id/1453999382/photo/jhangore-ki-kheer.jpg?s=612x612&w=0&k=20&c=AxGYedan3PMDvHbvilfvpJsvJ5UDwC7n44SQvxXhzvg=",
     "steps": [
       "Wash and soak rice for 30 mins.",
       "Boil milk and add soaked rice, cook on low flame till soft.",
@@ -499,7 +705,7 @@
   {
     "name": "Sheera",
     "category": "Desserts",
-    "image": "https://example.com/images/sheera.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbYzu5pDNyb4Q8-fWuzwijQG6JxQvImEeSgzjil_mNbvB8e_xHGffcG0&s",
     "steps": [
       "Roast semolina (sooji) in ghee until golden and aromatic.",
       "Boil water with sugar and cardamom, add to roasted sooji.",
@@ -511,7 +717,7 @@
   {
     "name": "Mango Shrikhand",
     "category": "Desserts",
-    "image": "https://example.com/images/mango-shrikhand.jpg",
+    "image": "https://media.istockphoto.com/id/1151600635/photo/group-of-indian-sweet-mithai-in-terracotta-bowl.jpg?s=612x612&w=0&k=20&c=uY2CX7QKjHmqq_RYDs8kkSU17VUO8DkJIVtC6X4XohE=",
     "steps": [
       "Strain curd in a muslin cloth for 4-5 hours to get thick hung curd.",
       "Whisk hung curd with powdered sugar and mango pulp.",
@@ -523,7 +729,7 @@
   {
     "name": "Gajar ka Halwa",
     "category": "Desserts",
-    "image": "https://example.com/images/gajar-ka-halwa.jpg",
+    "image": "https://media.istockphoto.com/id/1208754471/photo/gajar-ka-halwa.jpg?s=612x612&w=0&k=20&c=lfYKARLXHS2CbHtuU25uDnQQ1YMg83T_qS_eFB8wNRg=",
     "steps": [
       "Grate carrots and cook in a pan with ghee.",
       "Add milk and cook on medium flame till reduced.",
@@ -535,7 +741,7 @@
   {
     "name": "Kalakand",
     "category": "Desserts",
-    "image": "https://example.com/images/kalakand.jpg",
+    "image": "https://media.istockphoto.com/id/1266715697/photo/indian-diwali-sweet-food-kalakand-on-wooden-background.jpg?s=612x612&w=0&k=20&c=H2h_C8JcIk72RnpauTo-r8d6v7_Iu91LPO3drJoXbW0=",
     "steps": [
       "Boil milk and curdle to get chenna, drain and mash.",
       "In a pan, mix chenna with condensed milk and cook until thick.",
@@ -547,7 +753,7 @@
   {
     "name": "Seviyan Kheer",
     "category": "Desserts",
-    "image": "https://example.com/images/seviyan-kheer.jpg",
+    "image": "https://media.istockphoto.com/id/692446072/photo/most-famous-indian-sweet-pudding-kheer-or-semiya-khir-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=EYeuMLOgqpcFRtrDJ8KPGdxPjlUOrBhUwgjzU0Jwt5k=",
     "steps": [
       "Roast vermicelli in ghee until golden.",
       "Boil milk and add the roasted vermicelli.",
@@ -559,7 +765,7 @@
   {
     "name": "Jalebi",
     "category": "Desserts",
-    "image": "https://example.com/images/jalebi.jpg",
+    "image": "https://media.istockphoto.com/id/1430753492/photo/indian-sweet-jalebi.jpg?s=612x612&w=0&k=20&c=NkShJtvnL1Y3jACu6arXGiOQKN5LtLi-DKak3SlX2N4=",
     "steps": [
       "Prepare a batter with maida, curd, and a pinch of baking soda. Ferment overnight.",
       "Make sugar syrup flavored with saffron and cardamom.",
@@ -571,7 +777,7 @@
   {
     "name": "Sprouted Moong Salad",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/sprouted-moong-salad.jpg",
+    "image": "https://media.istockphoto.com/id/1127733398/photo/sprouted-lentil-salad.jpg?s=612x612&w=0&k=20&c=wsUlFsYVMaYLkBQbSc1K1l8KloZ8KEVr4v6lAnmn9rM=",
     "steps": [
       "Steam sprouted moong slightly or keep raw if preferred.",
       "Mix with chopped onion, tomato, cucumber, and green chili.",
@@ -583,7 +789,7 @@
   {
     "name": "Palak Paneer",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/palak-paneer.jpg",
+    "image": "https://media.istockphoto.com/id/1146291429/photo/palak-paneer-or-spinach-and-cottage-cheese-curry-on-a-dark-background-traditional-indian-food.jpg?s=612x612&w=0&k=20&c=LuY5cNs9p9EonSEqRE8t7xgvCPjLfT2iPYhsg5ZRNkw=",
     "steps": [
       "Blanch spinach and blend into a smooth puree.",
       "Saut\u00e9 cumin, garlic, and onion in oil, then add spinach puree.",
@@ -595,7 +801,7 @@
   {
     "name": "Oats Upma",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/oats-upma.jpg",
+    "image": "https://media.istockphoto.com/id/1931530553/photo/proso-millet-uppuma-a-nutritious-south-indian-dish.jpg?s=612x612&w=0&k=20&c=0yKLQoVMMe46gGQIGxWy2V8al7W_F66HEUcXUqk74SI=",
     "steps": [
       "Dry roast oats and keep aside.",
       "Saut\u00e9 mustard seeds, curry leaves, onions, and vegetables.",
@@ -607,7 +813,7 @@
   {
     "name": "Carrot and Beetroot Raita",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/carrot-and-beetroot-raita.jpg",
+    "image": "https://media.istockphoto.com/id/881583154/photo/gajar-or-carrot-raita-koshimbir-salad.jpg?s=612x612&w=0&k=20&c=ZMCfylXNXIpNnlW2gGgFAA-5TZznR_VFanIB86Q9eVE=",
     "steps": [
       "Grate carrot and beetroot.",
       "Mix with whisked curd, salt, and roasted cumin powder.",
@@ -619,7 +825,7 @@
   {
     "name": "Lauki Soup",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/lauki-soup.jpg",
+    "image": "https://media.istockphoto.com/id/596460950/video/green-soup-with-sesame-seeds.jpg?s=640x640&k=20&c=bxEr6btASkhah-n7ewd28JIhb1TJNSdpMmMOQRRb5Js=",
     "steps": [
       "Peel and chop bottle gourd (lauki).",
       "Boil with garlic, ginger, and onion until soft.",
@@ -631,7 +837,7 @@
   {
     "name": "Quinoa Khichdi",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/quinoa-khichdi.jpg",
+    "image": "https://media.istockphoto.com/id/1308142612/photo/a-bowl-full-of-quinoa-khichdi-weight-loss-recepie.jpg?s=612x612&w=0&k=20&c=D66Qle3e9kMR73j-niwyR2tze8rZKf51v8_d3XA5TU4=",
     "steps": [
       "Rinse and boil quinoa with moong dal until soft.",
       "Saut\u00e9 cumin, ginger, vegetables in ghee.",
@@ -643,7 +849,7 @@
   {
     "name": "Brown Rice Pulao",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/brown-rice-pulao.jpg",
+    "image": "https://media.istockphoto.com/id/1598202395/photo/indian-rice-cuisine-served-with-raita-on-a-beautiful-wooden-mat.jpg?s=612x612&w=0&k=20&c=x_4c0H6Px5KqVuwXWuDvEBUBS7XSpz4L36GVa_UH5xQ=",
     "steps": [
       "Soak and cook brown rice until done.",
       "Saut\u00e9 whole spices, onion, and mixed vegetables in olive oil.",
@@ -655,7 +861,7 @@
   {
     "name": "Grilled Tofu with Vegetables",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/grilled-tofu-with-vegetables.jpg",
+    "image": "https://media.istockphoto.com/id/1461061479/photo/vegan-kebabs-of-vegetables-on-a-skewer.jpg?s=612x612&w=0&k=20&c=02dJcSnX0eQfC_SrHOLGMyfB8wJ91_fRQNSsmNlkWw0=",
     "steps": [
       "Marinate tofu and vegetables in olive oil, herbs, and lemon juice.",
       "Grill on a pan or oven till golden.",
@@ -667,7 +873,7 @@
   {
     "name": "Cucumber Mint Raita",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/cucumber-mint-raita.jpg",
+    "image": "https://media.istockphoto.com/id/1333366288/photo/traditional-indian-raita-with-dahi-in-a-bowl-with-spices.jpg?s=612x612&w=0&k=20&c=eLjByywfKmBRVx6v5oSM9bGS2gKNZpg_d0XBJInIiN0=",
     "steps": [
       "Grate cucumber and mix with whisked curd.",
       "Add chopped mint leaves, salt, and cumin powder.",
@@ -679,7 +885,7 @@
   {
     "name": "Ragi Dosa",
     "category": "Healthy and Diet",
-    "image": "https://example.com/images/ragi-dosa.jpg",
+    "image": "https://media.istockphoto.com/id/1072894650/photo/ragi-roti-made-from-finger-millet-from-india-is-extremely-rich-in-proteins-served-with-pickle.jpg?s=612x612&w=0&k=20&c=WPqvvddhYMbfN_jXzrJp7mPsc6FrfJoFjkOfGvTITg0=",
     "steps": [
       "Mix ragi flour with rice flour, curd, and water to make a batter.",
       "Add chopped onions, chilies, and coriander.",
@@ -691,7 +897,7 @@
   {
     "name": "Kaju Katli",
     "category": "Mithai",
-    "image": "https://example.com/images/kaju-katli.jpg",
+    "image": "https://media.istockphoto.com/id/1225627187/photo/delicious-indian-sweet-kaju-katli-in-a-white-bowl.jpg?s=612x612&w=0&k=20&c=l9XABMf_h69TO_vRVTOrUbk5-26tLQEeDHiJMU4RTUg=",
     "steps": [
       "Grind cashews into a fine powder.",
       "Cook sugar with water to make a 1-string consistency syrup.",
@@ -703,7 +909,7 @@
   {
     "name": "Rasgulla",
     "category": "Mithai",
-    "image": "https://example.com/images/rasgulla.jpg",
+    "image": "https://media.istockphoto.com/id/1044080542/photo/indian-rasgulla-or-rosogulla-dessert-sweet-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=tdAE1jz-B43HcrqBL7dLSiV9tTchIVuPqFY0nMwrzrs=",
     "steps": [
       "Boil milk and curdle it using lemon juice to get chenna.",
       "Knead the chenna until smooth and make small balls.",
@@ -715,7 +921,7 @@
   {
     "name": "Besan Ladoo",
     "category": "Mithai",
-    "image": "https://example.com/images/besan-ladoo.jpg",
+    "image": "https://media.istockphoto.com/id/1464249038/photo/indian-mithai-motichoor-boondi-laddu-made-of-gram-flour-besan-in-desi-ghee-or-clarified.jpg?s=612x612&w=0&k=20&c=FAV-gtCwFSCfB31t7JGvUr6BMPlDnjFTE6b27EnZ6UI=",
     "steps": [
       "Roast besan in ghee on low flame until aromatic.",
       "Add powdered sugar and cardamom powder.",
@@ -727,7 +933,7 @@
   {
     "name": "Motichoor Ladoo",
     "category": "Mithai",
-    "image": "https://example.com/images/motichoor-ladoo.jpg",
+    "image": "https://media.istockphoto.com/id/1369467755/photo/motichoor-laddoo-also-know-as-bundi-laddu-indian-dessert-made-of-gram-flour-very-small-balls.jpg?s=612x612&w=0&k=20&c=_CImzRK-9q7bzd4y-Ozdu-POx2k08u2KTSeGIvPELdA=",
     "steps": [
       "Make a thin besan batter and fry tiny boondis using a perforated spoon.",
       "Soak boondis in sugar syrup flavored with saffron and cardamom.",
@@ -739,7 +945,7 @@
   {
     "name": "Peda",
     "category": "Mithai",
-    "image": "https://example.com/images/peda.jpg",
+    "image": "https://media.istockphoto.com/id/1401292302/photo/close-up-of-pineapple-cake-or-tart-pastry-delicious-dessert-pineapple-tart-biscuits-on-a.jpg?s=612x612&w=0&k=20&c=gL-5WbJwSh5i6Dqe-3bTiNaxGT4tQu0MEbHgvsRPNp0=",
     "steps": [
       "Cook khoya in a pan until soft and thick.",
       "Add sugar and cardamom powder, stir well.",
@@ -751,7 +957,7 @@
   {
     "name": "Coconut Barfi",
     "category": "Mithai",
-    "image": "https://example.com/images/coconut-barfi.jpg",
+    "image": "https://media.istockphoto.com/id/1433316355/photo/white-coconut-fudge-in-a-shell-of-coconut.jpg?s=612x612&w=0&k=20&c=OwdAUJPn9zaDwUP0PTJfdc_PPVQKvek2vIdBVJEC0ZI=",
     "steps": [
       "Mix grated coconut and condensed milk in a pan.",
       "Cook until the mixture thickens and leaves sides.",
@@ -763,7 +969,7 @@
   {
     "name": "Dry Fruit Halwa",
     "category": "Mithai",
-    "image": "https://example.com/images/dry-fruit-halwa.jpg",
+    "image": "https://media.istockphoto.com/id/614520540/photo/indian-sweet-carrot-halwa.jpg?s=612x612&w=0&k=20&c=TyYGZESxScWoaW8KxZr3eJ1RTwxtxX1pCriHS7yg26I=",
     "steps": [
       "Soak and grind dry fruits like dates, figs, almonds, and cashews.",
       "Cook the paste in ghee on low flame.",
@@ -775,7 +981,7 @@
   {
     "name": "Chenna Poda",
     "category": "Mithai",
-    "image": "https://example.com/images/chenna-poda.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLzT7adaZe63CzOMLKTI1c68QucFdG-VVbg&s",
     "steps": [
       "Mix fresh chenna with sugar, semolina, and cardamom.",
       "Add chopped dry fruits.",
@@ -787,7 +993,7 @@
   {
     "name": "Milk Cake",
     "category": "Mithai",
-    "image": "https://example.com/images/milk-cake.jpg",
+    "image": "https://media.istockphoto.com/id/470021502/photo/slice-of-tres-leche-cake.jpg?s=612x612&w=0&k=20&c=cEWjODH4C1DPr2OzyaJKiyvoI9TiErpOcVc6Q-GJPxk=",
     "steps": [
       "Boil milk and reduce it while stirring continuously.",
       "Add alum or lemon juice for light curdling.",
@@ -799,7 +1005,7 @@
   {
     "name": "Til Gud Ladoo",
     "category": "Mithai",
-    "image": "https://example.com/images/til-gud-ladoo.jpg",
+    "image": "https://media.istockphoto.com/id/1355897694/photo/indian-mithai-known-as-tilgul-ladoo-gajak-laddu-gajjak-laddoo-gazak-or-gachak-is-made-of.jpg?s=612x612&w=0&k=20&c=msYsPM6DjB9qOH8rwjRcG_YH7cbAGfqUnTHz5CFSfwc=",
     "steps": [
       "Roast sesame seeds and keep aside.",
       "Heat jaggery with ghee till soft-ball consistency.",
@@ -811,7 +1017,7 @@
   {
     "name": "Chole Bhature",
     "category": "Cuisine",
-    "image": "https://example.com/images/chole-bhature.jpg",
+    "image": "https://media.istockphoto.com/id/1328524499/photo/katlambe-chole.jpg?s=612x612&w=0&k=20&c=HDi8bCqvSsObfyfeVMQ2J6noJvazvKKtY5kKaVgvYCQ=",
     "steps": [
       "Soak chickpeas overnight and pressure cook until soft.",
       "Saut\u00e9 onions, ginger, garlic, and tomatoes in oil, then add spices.",
@@ -823,7 +1029,7 @@
   {
     "name": "Sarson da Saag with Makki di Roti",
     "category": "Cuisine",
-    "image": "https://example.com/images/sarson-da-saag-with-makki-di-roti.jpg",
+    "image": "https://media.istockphoto.com/id/1193080110/photo/makki-ki-roti-sarson-ka-saag.jpg?s=612x612&w=0&k=20&c=jyOa-swZQtqFJtY-0P9JqOyVspjOBx679L01J_WjFNA=",
     "steps": [
       "Boil mustard leaves, spinach, and bathua with ginger and green chilies.",
       "Mash and cook the saag with makki flour, ghee, and salt.",
@@ -835,7 +1041,7 @@
   {
     "name": "Bisi Bele Bath",
     "category": "Cuisine",
-    "image": "https://example.com/images/bisi-bele-bath.jpg",
+    "image": "https://media.istockphoto.com/id/1248664387/photo/indian-traditional-food-moong-dal-khichdi.jpg?s=612x612&w=0&k=20&c=tWmtX8672a-MyagAW5IQUug07AZ2NE6dtJpvGNYp2_c=",
     "steps": [
       "Pressure cook rice and toor dal together.",
       "Saut\u00e9 vegetables and add bisi bele bath masala.",
@@ -847,7 +1053,7 @@
   {
     "name": "Litti Chokha",
     "category": "Cuisine",
-    "image": "https://example.com/images/litti-chokha.jpg",
+    "image": "https://media.istockphoto.com/id/528436526/photo/litti-chokha-bihar-traditional-food.jpg?s=612x612&w=0&k=20&c=UJXViBY965xU2GajpYHX_BN5eINuIDbSNuCnXq8SUgw=",
     "steps": [
       "Prepare stuffing with sattu, garlic, green chili, mustard oil, and spices.",
       "Make wheat flour dough, stuff with sattu mix, and shape littis.",
@@ -859,7 +1065,7 @@
   {
     "name": "Undhiyu",
     "category": "Cuisine",
-    "image": "https://example.com/images/undhiyu.jpg",
+    "image": "https://media.istockphoto.com/id/701222740/photo/undhiyu-gujarati-mixed-vegetable-dish-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=hPoA37ubbUiClQvcf-yqf6IIPbrSPxfIKrEHHr8uJmw=",
     "steps": [
       "Make methi muthia and deep fry until golden.",
       "Prepare mixed vegetables (yam, brinjal, surti papdi, etc.).",
@@ -871,7 +1077,7 @@
   {
     "name": "Macher Jhol",
     "category": "Cuisine",
-    "image": "https://example.com/images/macher-jhol.jpg",
+    "image": "https://media.istockphoto.com/id/1711550551/photo/tasty-asian-fish-curry-seasoned-with-turmeric-garlic-onions-and-grated-ginger-and-indian.jpg?s=612x612&w=0&k=20&c=LZHmHRobX898YAeib4q9EiJIcCCQiAM6WBB5neYuonk=",
     "steps": [
       "Marinate fish pieces with turmeric and salt, then shallow fry.",
       "Saut\u00e9 potatoes and tomatoes with panch phoron and green chili.",
@@ -883,7 +1089,7 @@
   {
     "name": "Malabar Parotta with Kurma",
     "category": "Cuisine",
-    "image": "https://example.com/images/malabar-parotta-with-kurma.jpg",
+    "image": "https://media.istockphoto.com/id/1249702303/photo/malabar-wheat-porotta-with-wooden-background.jpg?s=612x612&w=0&k=20&c=ycI9IcjaY9ROdzoCAhRP2oQaQ7g-8qybWvtTAOr73FA=",
     "steps": [
       "Knead maida with water and oil, rest, then roll and coil into layers.",
       "Flatten and roast on a tawa with oil until flaky and golden.",
@@ -895,7 +1101,7 @@
   {
     "name": "Kosha Mangsho",
     "category": "Cuisine",
-    "image": "https://example.com/images/kosha-mangsho.jpg",
+    "image": "https://media.istockphoto.com/id/2132344998/photo/kosha-mangsho-or-mutton-kosha.jpg?s=612x612&w=0&k=20&c=1poKCr4d7sDNVFbp73QQHuUEOyZpdxWOT3ipEVvCuKk=",
     "steps": [
       "Marinate mutton with yogurt, mustard oil, and spices.",
       "Saut\u00e9 onions, garlic, and ginger until browned.",
@@ -907,7 +1113,7 @@
   {
     "name": "Sambar with Rice",
     "category": "Cuisine",
-    "image": "https://example.com/images/sambar-with-rice.jpg",
+    "image": "https://media.istockphoto.com/id/1953173311/video/white-rice-served-with-dal-or-curry-topped-with-ghee-on-a-banana-leaf-during-lunch.jpg?s=640x640&k=20&c=qw3mRkws0GL61SLIRfBU6TxFER3HbqObfoWeNnlo1bU=",
     "steps": [
       "Pressure cook toor dal until soft.",
       "Boil mixed vegetables in tamarind water with turmeric and sambar powder.",
@@ -919,7 +1125,7 @@
   {
     "name": "Bamboo Shoot Curry",
     "category": "Cuisine",
-    "image": "https://example.com/images/bamboo-shoot-curry.jpg",
+    "image": "https://media.istockphoto.com/id/153953887/photo/red-curry-chicken-with-bamboo-shoots-and-green-beans.jpg?s=612x612&w=0&k=20&c=BeCK-ZxbY9xluiHKxdrrfRjPIb5J9ygoj1a1arYlRcE=",
     "steps": [
       "Boil bamboo shoots to remove bitterness and drain.",
       "Saut\u00e9 mustard seeds, onions, and green chili in oil.",
@@ -931,7 +1137,7 @@
   {
     "name": "Lassi",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/lassi.jpg",
+    "image": "https://media.istockphoto.com/id/1167505818/photo/lassi-also-know-as-white-beer-in-pakistan.jpg?s=612x612&w=0&k=20&c=GeDc67RAV6m_rpJnID6ugOWTK66ItrE_gfo-n26WrHo=",
     "steps": [
       "In a blender, add 1 cup of plain yogurt, 1/2 cup of cold water, and 2 teaspoons of sugar.",
       "Blend until smooth and frothy.",
@@ -943,7 +1149,7 @@
   {
     "name": "Mango Lassi",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/mango-lassi.jpg",
+    "image": "https://media.istockphoto.com/id/980036596/photo/mango-lassi-indian-popular-summer-drink-in-a-terracotta-glass-selective-focus.jpg?s=612x612&w=0&k=20&c=N_bJG45HbVRgQly73hnYyOSH-yiTtoE0ulGVMNPMyMM=",
     "steps": [
       "Peel and chop 1 ripe mango and add it to a blender.",
       "Add 1 cup plain yogurt, 1/2 cup cold milk, 2 teaspoons sugar, and a pinch of cardamom powder.",
@@ -955,7 +1161,7 @@
   {
     "name": "Masala Chai",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/masala-chai.jpg",
+    "image": "https://media.istockphoto.com/id/1467773810/video/indian-masala-chai-traditional-beverage-tea-with-milk-spices-kerala-india.jpg?s=640x640&k=20&c=-k-ipVsvQh7EyScdspgZpDi-QxS7tYxqDClapwmMhhk=",
     "steps": [
       "In a saucepan, bring 1 cup water to a boil with 2 crushed green cardamoms, 1 clove, a small cinnamon stick, and a few slices of ginger.",
       "Add 1 teaspoon black tea leaves and boil for 1\u20132 minutes.",
@@ -967,7 +1173,7 @@
   {
     "name": "Sol Kadhi",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/sol-kadhi.jpg",
+    "image": "https://media.istockphoto.com/id/878185832/photo/solkadhi-or-sol-kadhi-a-famous-drink-from-goa-or-maharashtras-konkan-region.jpg?s=612x612&w=0&k=20&c=g8gDFlLvxi2oysgUJc6RfvJl5vYzlPMkNXsmOsL8KD8=",
     "steps": [
       "Soak 5-6 dried kokum petals in 1/2 cup warm water for 30 minutes.",
       "Crush and strain the kokum to extract the juice.",
@@ -979,7 +1185,7 @@
   {
     "name": "Aam Panna",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/aam-panna.jpg",
+    "image": "https://media.istockphoto.com/id/1220350725/photo/indian-salted-lemonade-aam-panna.jpg?s=612x612&w=0&k=20&c=viUP0Zb1yyEjJiWG7nKj26n805C0GRoV83fKPO_cYY4=",
     "steps": [
       "Boil 2 raw mangoes until soft. Let them cool and peel off the skin.",
       "Extract the pulp and blend it with 1/2 cup water, mint leaves, 1/2 tsp roasted cumin powder, black salt, and sugar to taste.",
@@ -990,7 +1196,7 @@
   {
     "name": "Thandai",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/thandai.jpg",
+    "image": "https://media.istockphoto.com/id/1460608842/photo/kesar-badam-thandai-prepared-with-fennel-seeds-dry-fruits-cardamom-bhang-badam-kaju-pista.jpg?s=612x612&w=0&k=20&c=K0l6n_gGVSKgyvzlpd9TULTGswSscp7W6gc4XjxL3j0=",
     "steps": [
       "Soak 2 tbsp almonds, 1 tbsp poppy seeds, 1 tbsp melon seeds, and 5-6 black peppercorns in water overnight.",
       "Grind into a fine paste with a little water.",
@@ -1002,7 +1208,7 @@
   {
     "name": "Kokum Sharbat",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/kokum-sharbat.jpg",
+    "image": "https://media.istockphoto.com/id/957270734/photo/kokum-sharbat-juice-or-sherbet-or-summer-coolant-drink-made-up-of-garcinia-indica-with-raw.jpg?s=612x612&w=0&k=20&c=T0d75zvAtUh_uJV-fUdRtppzprOcGpEeWbWVZBf3AOk=",
     "steps": [
       "Soak 10\u201312 dried kokum in 1 cup warm water for 1 hour.",
       "Crush and strain to extract juice.",
@@ -1013,7 +1219,7 @@
   {
     "name": "Badam Milk",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/badam-milk.jpg",
+    "image": "https://media.istockphoto.com/id/1372590305/photo/special-indian-beverage-called-shahi-bhaang-thandai-is-cannabis-infused-cooling-drink-made-of.jpg?s=612x612&w=0&k=20&c=fLOMBszpmTP3GACwDYPWj0AY4TcEpnTgD5dv9rNqY3w=",
     "steps": [
       "Soak 10 almonds overnight or in hot water for 30 minutes. Peel the skin.",
       "Grind almonds with a little milk to make a paste.",
@@ -1025,7 +1231,7 @@
   {
     "name": "Jaljeera",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/jaljeera.jpg",
+    "image": "https://media.istockphoto.com/id/2148353470/photo/soaking-raw-cumin-seeds-drinks-or-cumin-powder-drinks-called-jal-jeera-in-india-for-healthy.jpg?s=612x612&w=0&k=20&c=lx2XI_f8gvV2Pikj4-6dGJD-Qh16ScOb5jdMHnqgmqU=",
     "steps": [
       "Blend mint, coriander, ginger, black salt, regular salt, tamarind pulp, and cumin powder with a bit of water into a smooth paste.",
       "Strain the mixture.",
@@ -1036,7 +1242,7 @@
   {
     "name": "Filter Coffee",
     "category": "Drink and Cocktail",
-    "image": "https://example.com/images/filter-coffee.jpg",
+    "image": "https://media.istockphoto.com/id/2158812697/photo/high-angle-view-of-a-cup-of-black-coffee-on-a-wooden-table-beside-a-window.jpg?s=612x612&w=0&k=20&c=iujeo6R0MEMzJhEu7ePs-2gyuT7-7pRu8ZV6H1EzD-4=",
     "steps": [
       "Boil 1 cup of water in a kettle or saucepan.",
       "Add 2 tablespoons of South Indian filter coffee powder to the upper chamber of a traditional coffee filter.",
@@ -1048,7 +1254,7 @@
   {
     "name": "Tomato Shorba",
     "category": "Soup",
-    "image": "https://example.com/images/tomato-shorba.jpg",
+    "image": "https://media.istockphoto.com/id/1135071771/photo/bulgarian-bob-chorba.jpg?s=612x612&w=0&k=20&c=aqXgheqFsNoMSITYGWDwjP1Cq2mUAL70J6iRdnCYd48=",
     "steps": [
       "Boil 4 chopped tomatoes with 2 cups water, 1 garlic clove, and a small piece of ginger for 10 minutes.",
       "Cool slightly and blend into a smooth puree.",
@@ -1060,7 +1266,7 @@
   {
     "name": "Mulligatawny Soup",
     "category": "Soup",
-    "image": "https://example.com/images/mulligatawny-soup.jpg",
+    "image": "https://media.istockphoto.com/id/1173599844/photo/mulligatawny-soup-with-naan.jpg?s=612x612&w=0&k=20&c=5eE4TJT_AG6CL-eoCohFMmTcGwOd_dH3tkTdbGX4nl0=",
     "steps": [
       "Heat 1 tbsp oil, sauté 1 chopped onion, 1 carrot, and 1 apple until soft.",
       "Add 1 tsp ginger-garlic paste, 1/2 tsp turmeric, 1 tsp curry powder, and stir.",
@@ -1072,7 +1278,7 @@
   {
     "name": "Palak Soup",
     "category": "Soup",
-    "image": "https://example.com/images/palak-soup.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1_dkQY4gyCzyXwE3eQYyG01tby-1rBnQfDA&s",
     "steps": [
       "Blanch 2 cups spinach in hot water for 2 minutes, then blend into a smooth puree.",
       "Heat 1 tsp butter, sauté 1 chopped onion and 1 garlic clove until translucent.",
@@ -1084,7 +1290,7 @@
   {
     "name": "Lentil Soup",
     "category": "Soup",
-    "image": "https://example.com/images/lentil-soup.jpg",
+    "image": "https://media.istockphoto.com/id/870329822/photo/curried-lentil-soup.jpg?s=612x612&w=0&k=20&c=9fWWuD0s7gYy_WR_xvbr8Z8-rAp1ZT69BiWB_u070tA=",
     "steps": [
       "Wash 1/2 cup moong dal or masoor dal and cook with 2 cups water until soft.",
       "In a pan, heat 1 tsp ghee, add cumin seeds, chopped garlic, and 1 green chili.",
@@ -1096,7 +1302,7 @@
   {
     "name": "Carrot Ginger Soup",
     "category": "Soup",
-    "image": "https://example.com/images/carrot-ginger-soup.jpg",
+    "image": "https://media.istockphoto.com/id/541305426/photo/pumpkin-and-carrot-soup-with-cream-and-parsley.jpg?s=612x612&w=0&k=20&c=Hb-1m3-qHc92V5ifVvVqkx-skO2HRHYY25X3HSX9xH0=",
     "steps": [
       "Sauté 1 chopped onion and 1-inch piece of ginger in oil until soft.",
       "Add 2 cups chopped carrots and 2.5 cups water or stock.",
@@ -1108,7 +1314,7 @@
   {
     "name": "Vegetable Clear Soup",
     "category": "Soup",
-    "image": "https://example.com/images/vegetable-clear-soup.jpg",
+    "image": "https://media.istockphoto.com/id/468932181/photo/chicken-soup-with-rice-and-vegetables.jpg?s=612x612&w=0&k=20&c=_p51oHVDVw5R6JLIxjFTHDrHHXhoy1nWKJO6gIsPbPY=",
     "steps": [
       "Chop 1/2 cup each of carrots, beans, cauliflower, and cabbage.",
       "Boil the vegetables with 3 cups water or stock for 10 minutes.",
@@ -1120,7 +1326,7 @@
   {
     "name": "Sweet Corn Soup",
     "category": "Soup",
-    "image": "https://example.com/images/sweet-corn-soup.jpg",
+    "image": "https://media.istockphoto.com/id/494154858/photo/hot-homemade-corn-chowder.jpg?s=612x612&w=0&k=20&c=NuwffkneEU9yGgu_SnSZd45wPB_MeJO5YBGfg70x-L0=",
     "steps": [
       "Boil 1/2 cup sweet corn kernels with 2 cups water or vegetable stock for 5 minutes.",
       "Blend half the corn to a paste and mix back into the soup.",
@@ -1132,7 +1338,7 @@
   {
     "name": "Pumpkin Soup",
     "category": "Soup",
-    "image": "https://example.com/images/pumpkin-soup.jpg",
+    "image": "https://media.istockphoto.com/id/859053324/photo/freshness-pumpkin-soup.jpg?s=612x612&w=0&k=20&c=2XNbJwdjT3V_0DbdoRFj5G6fQkbfeMbe9u_fY5A2-N4=",
     "steps": [
       "Peel and chop 2 cups pumpkin. Cook with 1 chopped onion and 2 garlic cloves in a little oil until soft.",
       "Add 2 cups water or stock and simmer for 10 minutes.",
@@ -1144,7 +1350,7 @@
   {
     "name": "Drumstick Soup",
     "category": "Soup",
-    "image": "https://example.com/images/drumstick-soup.jpg",
+    "image": "https://media.istockphoto.com/id/1306609891/photo/sambar-_white-bowl.jpg?s=612x612&w=0&k=20&c=W-YVPdcbh_QLwFpd16-OYj08a1DXF2WAqvqYNXQpYMQ=",
     "steps": [
       "Wash and cut 2 drumsticks into 3-inch pieces. Boil them in 2 cups water for 10–12 minutes until soft.",
       "Cool slightly, scrape out the pulp with a spoon and discard the fibrous skin.",
@@ -1156,7 +1362,7 @@
   {
     "name": "Beetroot Soup",
     "category": "Soup",
-    "image": "https://example.com/images/beetroot-soup.jpg",
+    "image": "https://media.istockphoto.com/id/1180618961/photo/christmas-beetroot-soup-red-borscht-with-small-dumplings-with-mushroom-filling-in-a-ceramic.jpg?s=612x612&w=0&k=20&c=w36ojyLUuGzbFyOzl-bV9eCgKEm_kCYHp6Luz8oWJVc=",
     "steps": [
       "Boil or roast 2 medium beetroots until soft, then peel and chop.",
       "Sauté 1 chopped onion and 1 garlic clove in olive oil, then add the beetroot and cook for 5 minutes.",
@@ -1168,7 +1374,7 @@
   {
     "name": "Aloo Tikki",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/aloo-tikki.jpg",
+    "image": "https://media.istockphoto.com/id/1264056882/photo/indian-aloo-tikki-or-potato-cutlet-is-made-out-of-boiled-potatoes-peas-and-various-curry.jpg?s=612x612&w=0&k=20&c=yr981RXBJGF1UIhKkuzct3UyiQ4uqAvnY_KRQUk1W0k=",
     "steps": [
       "Boil and mash 3 medium potatoes.",
       "Add 1 chopped green chili, 1/2 tsp garam masala, 1/2 tsp amchur, salt, and chopped coriander leaves.",
@@ -1180,7 +1386,7 @@
   {
     "name": "Paneer Tikka",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/paneer-tikka.jpg",
+    "image": "https://media.istockphoto.com/id/1186759790/photo/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-tikka-is-an-indian.jpg?s=612x612&w=0&k=20&c=cITToqM1KEnrixXjoLhEciqP24SxdKtW3QXykq-W5OE=",
     "steps": [
       "Cut 200g paneer into cubes. In a bowl, mix 1/2 cup thick yogurt, 1 tsp ginger-garlic paste, 1/2 tsp turmeric, 1 tsp red chili powder, 1/2 tsp garam masala, salt, and 1 tsp lemon juice.",
       "Add paneer, capsicum, and onion chunks. Marinate for 30 minutes.",
@@ -1192,7 +1398,7 @@
   {
     "name": "Samosa",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/samosa.jpg",
+    "image": "https://media.istockphoto.com/id/980106992/photo/samosa-snack-served-with-tomato-ketchup-and-mint-chutney.jpg?s=612x612&w=0&k=20&c=GEbt-l44Uj-Guvt89HVer3bI5Kd5RSMn6QFkJW6oN7k=",
     "steps": [
       "Prepare dough with 1 cup maida, 2 tbsp oil, salt, and water. Rest for 30 mins.",
       "Boil, peel, and mash 2 potatoes. Sauté with cumin, ginger, peas, garam masala, amchur, and salt.",
@@ -1204,7 +1410,7 @@
   {
     "name": "Pakora",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/pakora.jpg",
+    "image": "https://media.istockphoto.com/id/1511077926/photo/indian-chicken-pakora-with-lemon-and-onion-close-up-photo.jpg?s=612x612&w=0&k=20&c=g_C6UPQ_EMkIttx-MV7GWQLyY8srWysAN22y8b7Y7ug=",
     "steps": [
       "Slice onions, potatoes, or other vegetables of choice.",
       "In a bowl, mix 1 cup besan (gram flour), 1 tsp chili powder, ajwain, salt, and water to make a thick batter.",
@@ -1215,7 +1421,7 @@
   {
     "name": "Dahi Puri",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/dahi-puri.jpg",
+    "image": "https://media.istockphoto.com/id/1314802039/photo/forehead-castle-chat.jpg?s=612x612&w=0&k=20&c=_FdVXvODCNpdJ9QujyAD6eaL9waZ6Yp01kfVIMxyjW4=",
     "steps": [
       "Crack open puris and fill each with mashed boiled potatoes or sprouted moong.",
       "Add sweet tamarind chutney and spicy green chutney.",
@@ -1227,7 +1433,7 @@
   {
     "name": "Kathi Roll",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/kathi-roll.jpg",
+    "image": "https://media.istockphoto.com/id/1051064870/photo/vegetable-indian-rolls-are-filled-with-a-tasty-concoction-of-carrots-potatoes-pepper-and-peas.jpg?s=612x612&w=0&k=20&c=qpO9XFT4LxNwsXE2XvXLcjbnZRUNcxDlKTBhr_XIU4M=",
     "steps": [
       "Marinate paneer/chicken with yogurt, spices, and lemon juice.",
       "Sauté marinated filling until golden and cooked through.",
@@ -1239,7 +1445,7 @@
   {
     "name": "Mini Dosas with Chutney",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/mini-dosas-with-chutney.jpg",
+    "image": "https://media.istockphoto.com/id/2012906044/photo/south-indian-food-uttapam.jpg?s=612x612&w=0&k=20&c=JCG7f5jxBSZdJnGOFNstPrNBz_chSPYf2jlaY1tQZZQ=",
     "steps": [
       "Prepare dosa batter with soaked rice and urad dal, fermented overnight.",
       "Heat a tawa, pour small rounds of batter, spread slightly.",
@@ -1250,7 +1456,7 @@
   {
     "name": "Hara Bhara Kabab",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/hara-bhara-kabab.jpg",
+    "image": "https://media.istockphoto.com/id/1024552308/photo/hara-bhara-kabab-or-kebab-is-indian-vegetarian-snack-recipe-served-with-green-mint-chutney.jpg?s=612x612&w=0&k=20&c=Cxe4cN19ZT3Fxg5s6gBO6uwKrG4kembO8ln19ix3UGs=",
     "steps": [
       "Blanch spinach, boil peas and potatoes; mash well.",
       "Mix with spices, green chili, ginger, and bread crumbs.",
@@ -1262,7 +1468,7 @@
   {
     "name": "Cheese Corn Balls",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/cheese-corn-balls.jpg",
+    "image": "https://media.istockphoto.com/id/1171007141/photo/traditional-colombian-fritters.jpg?s=612x612&w=0&k=20&c=nXNE34n0Tdfk34fIfdACXlRVxzmiYZ_JZWnx2Em2mmI=",
     "steps": [
       "Mix grated cheese, boiled corn, mashed potato, and spices.",
       "Form small balls and coat with cornflour slurry and breadcrumbs.",
@@ -1274,7 +1480,7 @@
   {
     "name": "Masala Peanuts",
     "category": "Snacks and Appetizers",
-    "image": "https://example.com/images/masala-peanuts.jpg",
+    "image": "https://media.istockphoto.com/id/1418379110/photo/cocktail-mix-namkeen-mixture-also-called-tedhe-medhe-chakhna-made-of-mixed-nuts-like-kabuli.jpg?s=612x612&w=0&k=20&c=tVXyMgvTtmri4DgoXfk2v7gHl0OXeYqNVe8HLiTlLOA=",
     "steps": [
       "Mix raw peanuts with besan, rice flour, and spices.",
       "Add a few drops of water to coat peanuts lightly.",
@@ -1286,7 +1492,7 @@
   {
     "name": "Hakka Noodles",
     "category": "International Eats",
-    "image": "https://example.com/images/hakka-noodles.jpg",
+    "image": "https://media.istockphoto.com/id/1158866399/photo/schezwan-noodles-with-vegetables-in-a-plate.jpg?s=612x612&w=0&k=20&c=VXuVv8UZGhWBG8uhHrskuHaRMgijwNLYt7pvjjyFgLk=",
     "steps": [
       "Boil noodles, drain, and toss with a little oil.",
       "Stir-fry garlic, onions, bell peppers, and cabbage on high heat.",
@@ -1298,7 +1504,7 @@
   {
     "name": "Chilli Paneer",
     "category": "International Eats",
-    "image": "https://example.com/images/chilli-paneer.jpg",
+    "image": "https://media.istockphoto.com/id/881481784/photo/indian-cuisine-paneer-tikka-kabab-asian-salad-top-view.jpg?s=612x612&w=0&k=20&c=e0Uu43RJxPqSQMoRhLLaZS6jVimBxhAdJUoHotn1TfQ=",
     "steps": [
       "Coat paneer cubes in cornflour and shallow fry until golden.",
       "Sauté garlic, onions, and capsicum in oil.",
@@ -1310,7 +1516,7 @@
   {
     "name": "Manchurian Balls with Gravy",
     "category": "International Eats",
-    "image": "https://example.com/images/manchurian-balls-with-gravy.jpg",
+    "image": "https://media.istockphoto.com/id/1284771657/photo/veg-manchurian-gravy-balls-in-black-bowl-in-dark-slate-table-top-vegetarian-manchurian-is.jpg?s=612x612&w=0&k=20&c=M0w1rsKN_wkXJpX1Gr14giH8mEvCalM6gSZD2qgfnCU=",
     "steps": [
       "Mix grated veggies with cornflour, shape into balls.",
       "Deep fry till crisp and golden.",
@@ -1322,7 +1528,7 @@
   {
     "name": "Paneer Tacos",
     "category": "International Eats",
-    "image": "https://example.com/images/paneer-tacos.jpg",
+    "image": "https://media.istockphoto.com/id/1342000546/photo/tacos-with-vegetables-and-fried-vegan-tofu-cheese-on-a-cutting-wooden-board-rustic-style.jpg?s=612x612&w=0&k=20&c=6CaQkaHTajj6tZxF6_PEGTLy0CTny7_a_U4t4vlIRYQ=",
     "steps": [
       "Cook paneer cubes with tikka masala spices and onions.",
       "Warm taco shells or rotis lightly.",
@@ -1334,7 +1540,7 @@
   {
     "name": "Tandoori Pasta",
     "category": "International Eats",
-    "image": "https://example.com/images/tandoori-pasta.jpg",
+    "image": "https://www.myplantifulcooking.com/wp-content/uploads/2022/03/tandoori-pasta-pan.jpg",
     "steps": [
       "Boil pasta and set aside.",
       "Cook onions, garlic, and tomatoes in oil; add tandoori masala.",
@@ -1347,7 +1553,7 @@
   {
     "name": "Masala French Fries",
     "category": "International Eats",
-    "image": "https://example.com/images/masala-french-fries.jpg",
+    "image": "https://media.istockphoto.com/id/1292619423/photo/tasty-spicy-peri-peri-french-fries-with-tomato-ketchup-served-in-a-bowl-over-a-rustic-wooden.jpg?s=612x612&w=0&k=20&c=xzEjcN3RA01zwwK3tgcOevSJRr5tR6qswXVWIb9lHO0=",
     "steps": [
       "Cut potatoes into fries and soak in water.",
       "Pat dry and deep fry until golden and crispy.",
@@ -1359,7 +1565,7 @@
   {
     "name": "Schezwan Fried Rice",
     "category": "International Eats",
-    "image": "https://example.com/images/schezwan-fried-rice.jpg",
+    "image": "https://media.istockphoto.com/id/1177812041/photo/veg-schezwan-fried-rice-in-black-bowl-at-dark-slate-background-vegetarian-szechuan-rice-is.jpg?s=612x612&w=0&k=20&c=sZiUTg8STknApfIC6wyaaukP_V2-upik6bypuRD_Q-g=",
     "steps": [
       "Cook and cool rice completely.",
       "Sauté garlic, onions, and mixed veggies on high flame.",
@@ -1371,7 +1577,7 @@
   {
     "name": "Desi Pizza with Naan base",
     "category": "International Eats",
-    "image": "https://example.com/images/desi-pizza-with-naan-base.jpg",
+    "image": "https://media.istockphoto.com/id/1044284540/photo/organic-pizza-with-vegetables-and-cheese.jpg?s=612x612&w=0&k=20&c=M2pGzatU2KIQkdlGWxVrmof905Dl9E-RsZvyizCHCCg=",
     "steps": [
       "Use naan as the pizza base.",
       "Spread pizza sauce or spiced tomato chutney.",
@@ -1383,7 +1589,7 @@
   {
     "name": "Curried Noodle Bowl",
     "category": "International Eats",
-    "image": "https://example.com/images/curried-noodle-bowl.jpg",
+    "image": "https://pinchofyum.com/wp-content/uploads/Bangkok-Coconut-Curry-Noodle-Bowls-3-960x1440.jpg",
     "steps": [
       "Boil noodles and set aside.",
       "Cook onions, garlic, and ginger in oil.",
@@ -1395,7 +1601,7 @@
   {
     "name": "Butter Chicken Quesadilla",
     "category": "International Eats",
-    "image": "https://example.com/images/butter-chicken-quesadilla.jpg",
+    "image": "https://media.istockphoto.com/id/1461254686/photo/stuffed-chicken-naan-moroccan-flavour-with-spices-and-veggies-on-a-wooden-circular-plank.jpg?s=612x612&w=0&k=20&c=DxrWiWZULu7iwKYngIs8pNUNyTGe4Vy_fnATK8U4VOM=",
     "steps": [
       "Prepare butter chicken with rich tomato gravy.",
       "Shred chicken and mix with thickened gravy.",

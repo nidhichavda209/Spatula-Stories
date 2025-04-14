@@ -107,6 +107,25 @@ const Home = ({ recipes }) => {
                     </ol>
                   </>
                 )}
+                {recipe.videos && recipe.videos.length > 0 && (
+                  <div className="video-links">
+                    <h4>Video Tutorials:</h4>
+                    <ul>
+                      {recipe.videos.map((videoUrl, vidIdx) => (
+                        <li key={vidIdx}>
+                          <a
+                            href={videoUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: '#6a1b9a', fontWeight: 'bold' }}
+                          >
+                          ▶ Watch Video {vidIdx + 1}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </div>
             </div>
           ))
