@@ -2,7 +2,7 @@ import React from "react";
 
 const PrivacyPolicy = () => {
   return (
-    <div className="page-container">
+    <div className="privacy-page-container">
       <h1>Privacy Policy</h1>
       <p>At Spatula Stories, we take your privacy seriously. Here's how we protect your data:</p>
 
