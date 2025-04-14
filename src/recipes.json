@@ -20,6 +20,11 @@
     "name": "Idli with Coconut Chutney",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/1219922412/photo/idly-or-rice-cake-originating-from-the-indian-subcontinent-popular-as-breakfast-foods-in.jpg?s=612x612&w=0&k=20&c=T0DtmiYEfX9S8DnShiNivLEbd4Rhtb13zNqNZ2vJ6xk=",
+    "videos": [
+        "https://www.youtube.com/watch?v=HFTubBeTrQ8",
+        "https://www.youtube.com/watch?v=G3-FcHybhjk",
+        "https://www.youtube.com/watch?v=IRUjleuYv_E"
+    ],
     "steps": [
       "Soak and grind rice and urad dal to make batter. Ferment overnight.",
       "Pour batter into idli molds and steam for 10-12 minutes.",
@@ -32,6 +37,11 @@
     "name": "Aloo Paratha",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/1432760289/photo/aloo-paratha-or-potato-stuffed-flat-bread-on-a-wooden-background-served-with-curd-and-sauce.jpg?s=612x612&w=0&k=20&c=_LMnQIp4ri0hhqCVf4uzJsagVWkZYW_3P86t5LZybPI=",
+    "videos": [
+      "https://www.youtube.com/watch?v=7NGOIKtFu3Q",
+      "https://www.youtube.com/watch?v=jLmYDZ2zjSg",
+      "https://www.youtube.com/watch?v=IpqpnRwgWIY"
+    ],
     "steps": [
       "Prepare dough using wheat flour and water.",
       "Boil and mash potatoes with spices like cumin, garam masala, and coriander.",
@@ -44,6 +54,11 @@
     "name": "Thepla",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/1232175343/photo/methi-paratha-indian-flat-bread-using-fenugreek-leaves.jpg?s=612x612&w=0&k=20&c=4S0iwDuPNztyw4wOnSjvevIrerZNnrUA7mYkTAM1_Fw=",
+    "videos": [
+    "https://www.youtube.com/watch?v=MTqCvLdQ21o",
+    "https://www.youtube.com/watch?v=bwkdIEYrQHo",
+    "https://www.youtube.com/watch?v=rVh66zZywTI"
+    ],
     "steps": [
       "Knead wheat flour with methi leaves, spices, curd, and a little oil.",
       "Roll into thin discs like chapati.",
@@ -55,6 +70,11 @@
     "name": "Moong Dal Chilla",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/1465606832/photo/indian-food-moong-dal-chilla-is-ready-to-eat.jpg?s=612x612&w=0&k=20&c=BOAiUpYPA6ToU5pAMOSk5rrX77KAG_7weBH1Jk56-6w=",
+    "videos": [
+    "https://www.youtube.com/watch?v=AbsBX4g5QGw",
+    "https://www.youtube.com/watch?v=2I1NZa76wyY",
+    "https://www.youtube.com/watch?v=6JXC5N9hF6k"
+    ],
     "steps": [
       "Soak moong dal for 2 hours and grind to a smooth batter.",
       "Add ginger, green chili, and salt.",
@@ -66,6 +86,11 @@
     "name": "Dhokla",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/1406488768/photo/gujarati-khaman-dhokla-made-using-chana-dal-served-with-green-chutney-selective-focus.jpg?s=612x612&w=0&k=20&c=dGWG-Q3fLaL-KcJqkxW3lbHLXELhGIj0cpgxRmyoX0w=",
+    "videos": [
+    "https://www.youtube.com/watch?v=97-Y-XeYN88",
+    "https://www.youtube.com/watch?v=w_2eb9uaXns",
+    "https://www.youtube.com/watch?v=PSeftKlbJNQ"
+    ],
     "steps": [
       "Prepare a batter with besan, curd, and water.",
       "Add ENO fruit salt just before steaming.",
@@ -78,6 +103,11 @@
     "name": "Rava Idli",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/547500002/photo/cooked-semolina-cakes-known-as-rava-idli-or-idly.jpg?s=612x612&w=0&k=20&c=zYNcQh_KU1UESlT0CRPy_ejXyWxFaniapNzeRAriQPQ=",
+    "videos": [
+    "https://www.youtube.com/watch?v=zHhhZeaVLzw",
+    "https://www.youtube.com/watch?v=eeTkNwj8VZI",
+    "https://www.youtube.com/watch?v=VDcD6B4g_co"
+    ],
     "steps": [
       "Roast rava in ghee and cool.",
       "Mix with curd, grated carrot, chopped coriander, and ENO.",
@@ -89,6 +119,11 @@
     "name": "Sabudana Khichdi",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/sabudana-khichdi-recipe.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=N4gbP2QU2fk",
+    "https://www.youtube.com/watch?v=AoKUxfiRIbk",
+    "https://www.youtube.com/watch?v=KChLMDchyf4"
+    ],
     "steps": [
       "Soak sabudana for 4-6 hours, then drain.",
       "Heat ghee, add cumin seeds, green chilies, and peanuts.",
@@ -100,6 +135,11 @@
     "name": "Uttapam",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/2161941112/photo/uttapam-south-india-breakfast.jpg?s=612x612&w=0&k=20&c=2oplOFi4IP9SbMt2FaU-qolHUtsJ913cXM5z7PYqb4M=",
+    "videos": [
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4",
+    "https://www.youtube.com/watch?v=2IMWlViah88",
+    "https://www.youtube.com/watch?v=qulwctXHwT4"
+    ],
     "steps": [
       "Use fermented dosa batter.",
       "Pour thick batter on tawa and top with chopped onions, tomatoes, and chilies.",
@@ -111,6 +151,11 @@
     "name": "Bread Upma",
     "category": "Breakfast",
     "image": "https://media.istockphoto.com/id/1298415706/photo/a-bowl-of-homemade-freshly-prepared-bread-upma-a-savory-and-spicy-south-indian-bread-dish.jpg?s=612x612&w=0&k=20&c=gWQkDkqlFQgu30k_IUqgB5ZlAMll7Tz9sU51jt03WbI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=dKs5hv7A1Sg",
+    "https://www.youtube.com/watch?v=8o5YP5HOrlA",
+    "https://www.youtube.com/watch?v=LTQ9omVVrjI"
+    ],
     "steps": [
       "Cut bread into cubes.",
       "Saut\u00e9 mustard seeds, curry leaves, onions, tomatoes, and spices.",
@@ -122,6 +167,11 @@
     "name": "Rajma Chawal",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1214464511/photo/rajma-chawal-indian-vegan-food-directly-above-stock-photo.jpg?s=612x612&w=0&k=20&c=HbW81gCaNmrhLPgeG54jJr8aGThC9D9ymdFdKMpL1KI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=M_ncAJhIaIU",
+    "https://www.youtube.com/watch?v=asY7cq6j0xE",
+    "https://www.youtube.com/watch?v=xUglk5JQvPM"
+    ],
     "steps": [
       "Soak rajma overnight and pressure cook until soft.",
       "In a pan, saut\u00e9 onions, ginger, garlic, and tomatoes.",
@@ -134,6 +184,11 @@
     "name": "Baingan Bharta",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1437118868/photo/dhaba-style-baingan-bharta-or-mashed-eggplant-curry.jpg?s=612x612&w=0&k=20&c=cUr_zcxvLawS3mGnlw3Ln04N6jWr9UDcr8rGmiupxLQ=",
+    "videos": [
+    "https://www.youtube.com/watch?v=oEOzzoAM7Sc",
+    "https://www.youtube.com/watch?v=-84Zz2EP4h4",
+    "https://www.youtube.com/watch?v=U-Km4u20cI8"
+    ],
     "steps": [
       "Roast brinjal on open flame until soft and peel skin.",
       "Mash and set aside.",
@@ -146,6 +201,11 @@
     "name": "Matar Paneer",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=SShuhVPIWBpUaJXqvdWqjPrh0AqsR6VR68GInZlyw6Y=",
+    "videos": [
+    "https://www.youtube.com/watch?v=iabalDLbn5s",
+    "https://www.youtube.com/watch?v=OqpkqAgeHkE",
+    "https://www.youtube.com/watch?v=H2mMY3XPsOI"
+    ],
     "steps": [
       "Fry paneer cubes lightly and set aside.",
       "In oil, saut\u00e9 onions, tomatoes, and ginger garlic paste.",
@@ -158,6 +218,11 @@
     "name": "Kadhi Pakora",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/974903414/photo/kadhi-pakoda-or-pakora-indian-cuisine-selective-focus.jpg?s=612x612&w=0&k=20&c=fHiwF4SyPiPum5M_73z3utWoLuH3S-ImaRlIswScoDI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=P_v82RlPbSE",
+    "https://www.youtube.com/watch?v=EPxfnt7jqK4",
+    "https://www.youtube.com/watch?v=h5V1YVIqd-4"
+    ],
     "steps": [
       "Make gram flour pakoras and fry until golden.",
       "Whisk curd with gram flour, turmeric, and water.",
@@ -170,6 +235,11 @@
     "name": "Aloo Tamatar ki Sabzi",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1088001024/photo/indian-food-aloo-curry-masala-potato-cooked-with-spices-and-herbs-in-a-tomato-curry-served-in.jpg?s=612x612&w=0&k=20&c=SPN3SPN2vGU8Splku7nyQbvl-pHSadD0c2if3ZnpAZo=",
+    "videos": [
+    "https://www.youtube.com/watch?v=c8IBSviKWbo",
+    "https://www.youtube.com/watch?v=JWvA7vy_PNs",
+    "https://www.youtube.com/watch?v=Y7Kq0Gxq0l0"
+    ],
     "steps": [
       "Boil and cube potatoes.",
       "In a pan, saut\u00e9 cumin seeds, ginger, and green chilies.",
@@ -182,6 +252,11 @@
     "name": "Lauki Chana Dal",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1403328916/photo/closeup-of-indian-curry-sabzi-in-a-bowl-prepared-with-dudhi-vegetable-and-chana-dal.jpg?s=612x612&w=0&k=20&c=eX7Lop2dJbSY7CuT7Nof7Zqr-nHOK2GFttqduSNTph0=",
+    "videos": [
+    "https://www.youtube.com/watch?v=ZC3E_UJNL8U",
+    "https://www.youtube.com/watch?v=d-4R1MemAo8",
+    "https://www.youtube.com/watch?v=NnUyvIXmkgc"
+    ],
     "steps": [
       "Soak chana dal for 1 hour and boil.",
       "Saut\u00e9 onions, tomatoes, and spices.",
@@ -194,6 +269,11 @@
     "name": "Jeera Rice",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/609930740/photo/jeera-rice-cumin-rice.jpg?s=612x612&w=0&k=20&c=D0eo5vuexF1DpPqpmXZ6TXKJY59IKHz00YFmzlhkImk=",
+    "videos": [
+      "https://www.youtube.com/watch?v=raUlcCUnEZs",
+      "https://www.youtube.com/watch?v=482su5EwL8w",
+      "https://www.youtube.com/watch?v=RW-bkcqvUMI"
+    ],
     "steps": [
       "Heat ghee and fry cumin seeds until aromatic.",
       "Add soaked basmati rice and saut\u00e9 gently.",
@@ -205,6 +285,11 @@
     "name": "Chana Masala",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1223625174/photo/spicy-chana-masala.jpg?s=612x612&w=0&k=20&c=2jLDq4ZcYvnnpIVLeBX_e7npBLi7lj3nFeKrY5Lco-k=",
+    "videos": [
+    "https://www.youtube.com/watch?v=W9jQkOyjmAs",
+    "https://www.youtube.com/watch?v=0ATENI8GRDw",
+    "https://www.youtube.com/watch?v=NN-IxZe_Oew"
+    ],
     "steps": [
       "Soak and boil chickpeas until soft.",
       "Saut\u00e9 onions, tomatoes, and ginger garlic paste.",
@@ -217,6 +302,11 @@
     "name": "Tinda Masala",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/1124525462/photo/tindora-sabzi-tendli-tondli-fry-also-known-as-ivy-gourd-fry-recipe-selective-focus.jpg?s=612x612&w=0&k=20&c=fmckWMnwtRv_iseiAl-RT8K1_OS3uaVGHkjn_LtXUrA=",
+    "videos": [
+    "https://www.youtube.com/watch?v=qecFsrnTyN8",
+    "https://www.youtube.com/watch?v=0HucLn4Dpn4",
+    "https://www.youtube.com/watch?v=0HucLn4Dpn4"
+    ],
     "steps": [
       "Peel and chop tinda.",
       "Saut\u00e9 cumin seeds, onions, and tomatoes.",
@@ -229,6 +319,11 @@
     "name": "Palak Dal",
     "category": "Lunch",
     "image": "https://media.istockphoto.com/id/807448108/photo/simple-palak-dal-or-spinach-dal.jpg?s=612x612&w=0&k=20&c=YqaK24rH2IS97FxrATpb1hQ2zDokKLULg2LhKUadPYg=",
+    "videos": [
+    "https://www.youtube.com/watch?v=9kvkhxa3K_w",
+    "https://www.youtube.com/watch?v=HZ67I0Ry3wI",
+    "https://www.youtube.com/watch?v=UXMAqIy5dKI"
+    ],
     "steps": [
       "Pressure cook dal with turmeric and green chilies.",
       "Saut\u00e9 garlic, onions, and tomatoes in ghee.",
@@ -241,6 +336,11 @@
     "name": "Pav Bhaji",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/1413557034/photo/indian-mumbai-street-style-pav-bhaji-garnished-with-peas-raw-onions-coriander-and-butter.jpg?s=612x612&w=0&k=20&c=Egw7wRqIHwKPtZfJujwrTiUMQUxxLJOO0iri-jSZRHA=",
+    "videos": [
+    "https://www.youtube.com/watch?v=rSLiOqJ2egU",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+],
     "steps": [
       "Boil vegetables like potatoes, peas, and carrots.",
       "Mash them and cook with butter, onions, tomatoes, and pav bhaji masala.",
@@ -252,6 +352,11 @@
     "name": "Misal Pav",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/2168401768/photo/authentic-maharashtrain-spicy-misal-pav-with-black-background-misal-pav-is-a-food-of-usal.jpg?s=612x612&w=0&k=20&c=CYeQHttspckqQ8WEsGJHSrmnclsMXcgtvhDBkBI7gn4=",
+    "videos": [
+    "https://www.youtube.com/watch?v=MYZHbLlLP8k",
+    "https://www.youtube.com/watch?v=gJXeu2Eih60",
+    "https://www.youtube.com/watch?v=2_BkfGRcx3o"
+    ],
     "steps": [
       "Cook sprouted matki beans with spicy masala gravy.",
       "Top with farsan and chopped onions.",
@@ -262,6 +367,11 @@
     "name": "Kanda Poha",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/1093268666/photo/aloo-kanda-poha-or-tarri-pohe-with-spicy-chana-masala-curry-selective-focus.jpg?s=612x612&w=0&k=20&c=CscGdm1kJ-3y0JxdLuVhMlYbj4Mripy3L-BcY3fe2v4=",
+    "videos": [
+    "https://www.youtube.com/watch?v=2_BkfGRcx3o",
+    "https://www.youtube.com/watch?v=jODnSnhbIbQ",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ"
+],
     "steps": [
       "Rinse poha and let it sit.",
       "Saut\u00e9 mustard seeds, green chilies, and onions.",
@@ -273,6 +383,11 @@
     "name": "Vegetable Sandwich",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/1221237754/photo/two-halves-of-club-sandwich-on-white.jpg?s=612x612&w=0&k=20&c=jTThChWPJoFPxOdW1F4I-UzDqzS97iIgTm4-JJe-gOQ=",
+    "videos": [
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+],
     "steps": [
       "Butter bread slices and apply green chutney.",
       "Layer sliced cucumber, tomato, beetroot, and potato.",
@@ -284,6 +399,11 @@
     "name": "Bread Pakora",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/1209039610/photo/bread-alu-pakora.jpg?s=612x612&w=0&k=20&c=Dayl3pV2NSwooNrMoTEQwif3rEbv-4Csl3ZyEDNG3Ek=",
+    "videos": [
+      "https://www.youtube.com/watch?v=ku2bfXRQdfs",
+      "https://www.youtube.com/watch?v=nnRdFlBtF2Y",
+      "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+  ],
     "steps": [
       "Make potato filling with spices.",
       "Stuff between two bread slices and dip in gram flour batter.",
@@ -295,6 +415,11 @@
     "name": "Chole Kulche",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/1335023693/photo/chole-kulche.jpg?s=612x612&w=0&k=20&c=Y1HislYAUVWgwKS1QWlfc6SwDcQK4BtF99QF4IYpo00=",
+    "videos": [
+    "https://www.youtube.com/watch?v=WLPOyKOogJg",
+    "https://www.youtube.com/watch?v=lQ5VagHI3q0",
+    "https://www.youtube.com/watch?v=MYZHbLlLP8k"
+],
     "steps": [
       "Boil white chickpeas and prepare spicy chole masala.",
       "Heat kulche with butter.",
@@ -305,6 +430,11 @@
     "name": "Egg Bhurji with Toast",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/545269822/photo/egg-anda-bhurji-or-spicy-scrambled-eggs-and-bread.jpg?s=612x612&w=0&k=20&c=c3LSPH5v067yQYIYy8yBS6C4ZbIH_cCVrRSvxtXRESI=",
+    "videos": [
+    "https://www.youtube.com/watch?v=4Ls4xFBW3kQ",
+    "https://www.youtube.com/watch?v=x0RFlAcS6Aw",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ"
+],
     "steps": [
       "Scramble eggs with onion, tomato, and spices.",
       "Cook until fluffy and garnish with coriander.",
@@ -315,6 +445,11 @@
     "name": "Batata Vada",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/692419218/photo/batata-vada-with-garlic-and-mint-chutney-and-chilli-on-white-plate.jpg?s=612x612&w=0&k=20&c=ZdHrgh0dLZgR_5Yn-AzYwfb_kTZqUlfz-zxVeruJqZ4=",
+    "videos": [
+      "https://www.youtube.com/watch?v=tZjCcyWSDiI",
+      "https://www.youtube.com/watch?v=vxsZ3EM8KsY",
+      "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+  ],
     "steps": [
       "Prepare spiced mashed potato filling.",
       "Dip balls in gram flour batter and deep fry.",
@@ -325,6 +460,11 @@
     "name": "Rava Uttapam",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/1265553451/photo/south-indian-food-uttapam.jpg?s=612x612&w=0&k=20&c=ERiKnp7R8ghQoW_YShZ0PouEA6O-rHEEW1nWuxxJpkk=",
+    "videos": [
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4",
+    "https://www.youtube.com/watch?v=L2ZEPBiaDWw",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+],
     "steps": [
       "Make batter with rava, curd, and water.",
       "Pour on tawa and top with onions, tomatoes, and chilies.",
@@ -335,6 +475,12 @@
     "name": "Sabudana Thalipeeth",
     "category": "Brunch",
     "image": "https://media.istockphoto.com/id/2168715589/video/a-delicious-chilla-or-chila-served-in-a-white-ceramic-plate.jpg?s=640x640&k=20&c=MqU--rYL58Qsc6SeJRUtBgvVqGU-N9xvKSablRbw3r4=",
+    
+    "videos": [
+      "https://www.youtube.com/watch?v=CezjeTmvTmA",
+      "https://www.youtube.com/watch?v=6dtzeoKY8UY",
+      "https://www.youtube.com/watch?v=BiO1SXyRAs4"
+    ],
     "steps": [
       "Mix soaked sabudana, mashed potatoes, and spices.",
       "Flatten and cook on tawa until crisp.",
@@ -345,6 +491,11 @@
     "name": "Butter Chicken",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1170729895/photo/indian-butter-chicken-horizontal-photo.jpg?s=612x612&w=0&k=20&c=4bZViynoVnP1HaWHIY1k5FvW-dj9DM2EOMHbKnAqYZ4=",
+    "videos": [
+      "https://www.youtube.com/watch?v=a03U45jFxOI",
+      "https://www.youtube.com/watch?v=vjKEUBg-ziY",
+      "https://www.youtube.com/watch?v=WLPOyKOogJg"
+  ],
     "steps": [
       "Marinate chicken with yogurt and spices for 6 hours.",
       "Cook chicken in a tandoor or pan until browned.",
@@ -357,6 +508,11 @@
     "name": "Hyderabadi Biryani",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=612x612&w=0&k=20&c=9xEw3VOQSz9TP8yQr60L47uExyKF9kogRhQdlghlC00=",
+    "videos": [
+      "https://www.youtube.com/watch?v=VI0LQaIkVf8",
+      "https://www.youtube.com/watch?v=CVyJ2IXW8_s",
+      "https://www.youtube.com/watch?v=a03U45jFxOI"
+  ],
     "steps": [
       "Marinate meat with yogurt, fried onions, and biryani spices.",
       "Partially cook basmati rice separately.",
@@ -369,6 +525,11 @@
     "name": "Dal Tadka",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1205482038/photo/dal-tadka-cooked-lentils-which-are-lastly-tempered-with-oil-or-ghee-fried-spices-herbs.jpg?s=612x612&w=0&k=20&c=mQ-ECflpl5ppQM-124QrQi-DDyrKsSnX36GpIyMjB3A=",
+    "videos": [
+    "https://www.youtube.com/watch?v=VI0LQaIkVf8",
+    "https://www.youtube.com/watch?v=CVyJ2IXW8_s",
+    "https://www.youtube.com/watch?v=a03U45jFxOI"
+],
     "steps": [
       "Pressure cook toor dal with turmeric.",
       "In ghee, temper cumin, garlic, onions, and tomatoes.",
@@ -381,6 +542,11 @@
     "name": "Malai Kofta",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1219174110/photo/malai-kofta-curry-in-black-bowl-at-dark-slate-background-malai-kofta-is-indian-cuisine-dish.jpg?s=612x612&w=0&k=20&c=YBusjVmB35Q0AAFuMs48KRLNgnDQuL1dONJ0EBYwS9M=",
+    "videos": [
+    "https://www.youtube.com/watch?v=O7mhMWNCRGE",
+    "https://www.youtube.com/watch?v=c8Lh4vzSQG0",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+    ],
     "steps": [
       "Prepare koftas using paneer and potatoes, deep fry till golden.",
       "Make creamy tomato-cashew gravy with spices.",
@@ -391,6 +557,11 @@
     "name": "Chicken Chettinad",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1156501972/photo/spicy-chicken-chettinad-in-a-clay-pot.jpg?s=612x612&w=0&k=20&c=dmxl9MnS66dIofMYDK64sZIVK1kwdkccirZtVjspicc=",
+    "videos": [
+      "https://www.youtube.com/watch?v=zVYa0abkdkE",
+      "https://www.youtube.com/watch?v=eajGpPvTEXc",
+      "https://www.youtube.com/watch?v=NY7_WdL7TX0"
+    ],
     "steps": [
       "Marinate chicken with yogurt and spices.",
       "Saut\u00e9 onions, tomatoes, and Chettinad masala.",
@@ -402,6 +573,11 @@
     "name": "Gobi Paratha",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/900284552/photo/green-peas-paratha-or-matar-ka-paratha-which-is-a-traditional-and-popular-food-native-to-north.jpg?s=612x612&w=0&k=20&c=Olu6WWKMIkhGU35b82wuBDjJYCDAtmxUYc4sc5Peetw=",
+    "videos": [
+      "https://www.youtube.com/watch?v=2WzNEb9EEMg",
+      "https://www.youtube.com/watch?v=4-EMTzURgXg",
+      "https://www.youtube.com/watch?v=8ifpeFVgagc"
+],
     "steps": [
       "Prepare dough using wheat flour.",
       "Grate cauliflower and mix with spices.",
@@ -413,6 +589,11 @@
     "name": "Veg Pulao",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1222031490/photo/veg-pulao-with-paneer-tikka-masala-and-lachha-paratha.jpg?s=612x612&w=0&k=20&c=ujCLDaBrUQvJblBIUApoRhf4tZ4qLs1pe1Zd1Yq-kXk=",
+    "videos": [
+      "https://www.youtube.com/watch?v=G7z5p5Z1x1A",
+      "https://www.youtube.com/watch?v=J5z5p5Z1x1B",
+      "https://www.youtube.com/watch?v=K5z5p5Z1x1C"
+    ],
     "steps": [
       "Saut\u00e9 whole spices, onions, and mixed vegetables.",
       "Add soaked basmati rice and water.",
@@ -424,6 +605,11 @@
     "name": "Paneer Butter Masala",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1305516669/photo/shahi-paneer-or-paneer-kadai.jpg?s=612x612&w=0&k=20&c=DO--pEfzfOdpResHc3m4JJQVSvHrNtK58zbC4xl4yaU=",
+    "videos": [
+      "https://www.youtube.com/watch?v=pjJgCXx_FRk",
+      "https://www.youtube.com/watch?v=O0Y-ppH8Ajk",
+      "https://www.youtube.com/watch?v=Y6mJJvbEKBI"
+    ],
     "steps": [
       "Saut\u00e9 onions, tomatoes, and cashews, blend into a smooth paste.",
       "Cook paste with butter and spices.",
@@ -435,6 +621,11 @@
     "name": "Fish Curry with Rice",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/479660444/photo/shrimps-curry-with-rice-on-plate-horizontal-view-from-above.jpg?s=612x612&w=0&k=20&c=yveJCQqVBdMSKVxQ6Fb1Q0mYm2JH1gEvBOhYOzcbPRE=",
+    "videos": [
+      "https://www.youtube.com/watch?v=kjx5wDoY_n8",
+      "https://www.youtube.com/watch?v=o4VcIrtoMUI",
+      "https://www.youtube.com/watch?v=N5MoJx_4-mk"
+  ],
     "steps": [
       "Marinate fish with turmeric and salt.",
       "Prepare gravy with coconut, tamarind, onions, and spices.",
@@ -446,6 +637,11 @@
     "name": "Methi Thepla with Yogurt",
     "category": "Dinner",
     "image": "https://media.istockphoto.com/id/1330523075/photo/whole-wheat-methi-thepla-rolls-with-paneer-capsicum-filling-and-a-bowl-of-masala-curd.jpg?s=612x612&w=0&k=20&c=XPTD_GxNlrBN4nhwJZmF4_tAfb3RmtYVx_Vuko2IHB0=",
+    "videos": [
+      "https://www.youtube.com/watch?v=RcepvdxUvf0",
+      "https://www.youtube.com/watch?v=6VTznQZ0x4c",
+      "https://www.youtube.com/watch?v=iPO-8KVOpvg"
+  ],
     "steps": [
       "Mix wheat flour, chopped methi, yogurt, and spices.",
       "Knead into dough and rest.",
@@ -457,6 +653,11 @@
     "name": "Gulab Jamun",
     "category": "Desserts",
     "image": "https://media.istockphoto.com/id/1424509973/photo/gulab-jamun-an-indian-dessert.jpg?s=612x612&w=0&k=20&c=nNXYGIMY7z4bBq6sRBlgoHbAJN5p75GhW0hVZ8uWhAM=",
+    "videos": [
+      "https://www.youtube.com/watch?v=An5NHoUzQQg",
+      "https://www.youtube.com/watch?v=QFvd7u_YjVk",
+      "https://www.youtube.com/watch?v=5MUQ840KTHY"
+    ],
     "steps": [
       "Mix khoya, maida, and baking soda to form a soft dough.",
       "Make small balls from the dough and deep fry on low heat until golden brown.",
