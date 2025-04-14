@@ -3,6 +3,11 @@
     "name": "Poha",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/poha-recipe-500x500.jpg",
+    "videos": [
+      "https://youtu.be/UXaOuBoatUA?t=2",
+      "https://youtu.be/92D8P1mamrQ?t=48",
+      "https://youtu.be/oA1K6s03DlI?t=3"
+    ],
     "steps": [
       "Rinse poha in water and drain.",
       "Heat oil, add mustard seeds, curry leaves, green chilies, and peanuts.",
@@ -15,6 +20,11 @@
     "name": "Idli with Coconut Chutney",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/idli-recipe.jpg",
+    "videos": [
+        "https://www.youtube.com/watch?v=HFTubBeTrQ8",
+        "https://www.youtube.com/watch?v=G3-FcHybhjk",
+        "https://www.youtube.com/watch?v=IRUjleuYv_E"
+    ],
     "steps": [
       "Soak and grind rice and urad dal to make batter. Ferment overnight.",
       "Pour batter into idli molds and steam for 10-12 minutes.",
@@ -27,6 +37,11 @@
     "name": "Aloo Paratha",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/aloo-paratha.jpg",
+     "videos": [
+        "https://www.youtube.com/watch?v=7NGOIKtFu3Q",
+        "https://www.youtube.com/watch?v=jLmYDZ2zjSg",
+        "https://www.youtube.com/watch?v=IpqpnRwgWIY"
+    ],
     "steps": [
       "Prepare dough using wheat flour and water.",
       "Boil and mash potatoes with spices like cumin, garam masala, and coriander.",
@@ -39,6 +54,11 @@
     "name": "Thepla",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/thepla.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=MTqCvLdQ21o",
+    "https://www.youtube.com/watch?v=bwkdIEYrQHo",
+    "https://www.youtube.com/watch?v=rVh66zZywTI"
+]
     "steps": [
       "Knead wheat flour with methi leaves, spices, curd, and a little oil.",
       "Roll into thin discs like chapati.",
@@ -51,6 +71,11 @@
     "name": "Moong Dal Chilla",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/moong-dal-chilla.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=AbsBX4g5QGw",
+    "https://www.youtube.com/watch?v=2I1NZa76wyY",
+    "https://www.youtube.com/watch?v=6JXC5N9hF6k"
+]
     "steps": [
       "Soak moong dal for 2 hours and grind to a smooth batter.",
       "Add ginger, green chili, and salt.",
@@ -62,6 +87,11 @@
     "name": "Dhokla",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/khaman-dhokla.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=97-Y-XeYN88",
+    "https://www.youtube.com/watch?v=w_2eb9uaXns",
+    "https://www.youtube.com/watch?v=PSeftKlbJNQ"
+]
     "steps": [
       "Prepare a batter with besan, curd, and water.",
       "Add ENO fruit salt just before steaming.",
@@ -74,6 +104,11 @@
     "name": "Rava Idli",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/rava-idli.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=zHhhZeaVLzw",
+    "https://www.youtube.com/watch?v=eeTkNwj8VZI",
+    "https://www.youtube.com/watch?v=VDcD6B4g_co"
+]
     "steps": [
       "Roast rava in ghee and cool.",
       "Mix with curd, grated carrot, chopped coriander, and ENO.",
@@ -85,6 +120,11 @@
     "name": "Sabudana Khichdi",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/sabudana-khichdi-recipe.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=N4gbP2QU2fk",
+    "https://www.youtube.com/watch?v=AoKUxfiRIbk",
+    "https://www.youtube.com/watch?v=KChLMDchyf4"
+]
     "steps": [
       "Soak sabudana for 4-6 hours, then drain.",
       "Heat ghee, add cumin seeds, green chilies, and peanuts.",
@@ -96,6 +136,11 @@
     "name": "Uttapam",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/uttapam-recipe.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4",
+    "https://www.youtube.com/watch?v=2IMWlViah88",
+    "https://www.youtube.com/watch?v=qulwctXHwT4"
+]
     "steps": [
       "Use fermented dosa batter.",
       "Pour thick batter on tawa and top with chopped onions, tomatoes, and chilies.",
@@ -107,6 +152,11 @@
     "name": "Bread Upma",
     "category": "Breakfast",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/bread-upma.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=dKs5hv7A1Sg",
+    "https://www.youtube.com/watch?v=8o5YP5HOrlA",
+    "https://www.youtube.com/watch?v=LTQ9omVVrjI"
+]
     "steps": [
       "Cut bread into cubes.",
       "Saut\u00e9 mustard seeds, curry leaves, onions, tomatoes, and spices.",
@@ -118,6 +168,11 @@
     "name": "Rajma Chawal",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/rajma-chawal.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=M_ncAJhIaIU",
+    "https://www.youtube.com/watch?v=asY7cq6j0xE",
+    "https://www.youtube.com/watch?v=xUglk5JQvPM"
+]
     "steps": [
       "Soak rajma overnight and pressure cook until soft.",
       "In a pan, saut\u00e9 onions, ginger, garlic, and tomatoes.",
@@ -130,6 +185,11 @@
     "name": "Baingan Bharta",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/baingan-bharta.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=oEOzzoAM7Sc",
+    "https://www.youtube.com/watch?v=-84Zz2EP4h4",
+    "https://www.youtube.com/watch?v=U-Km4u20cI8"
+]
     "steps": [
       "Roast brinjal on open flame until soft and peel skin.",
       "Mash and set aside.",
@@ -142,6 +202,11 @@
     "name": "Matar Paneer",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/matar-paneer.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=iabalDLbn5s",
+    "https://www.youtube.com/watch?v=OqpkqAgeHkE",
+    "https://www.youtube.com/watch?v=H2mMY3XPsOI"
+]
     "steps": [
       "Fry paneer cubes lightly and set aside.",
       "In oil, saut\u00e9 onions, tomatoes, and ginger garlic paste.",
@@ -154,6 +219,11 @@
     "name": "Kadhi Pakora",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/kadhi-pakora.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=P_v82RlPbSE",
+    "https://www.youtube.com/watch?v=EPxfnt7jqK4",
+    "https://www.youtube.com/watch?v=h5V1YVIqd-4"
+]
     "steps": [
       "Make gram flour pakoras and fry until golden.",
       "Whisk curd with gram flour, turmeric, and water.",
@@ -166,6 +236,11 @@
     "name": "Aloo Tamatar ki Sabzi",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-tamatar-curry.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=c8IBSviKWbo",
+    "https://www.youtube.com/watch?v=JWvA7vy_PNs",
+    "https://www.youtube.com/watch?v=Y7Kq0Gxq0l0"
+]
     "steps": [
       "Boil and cube potatoes.",
       "In a pan, saut\u00e9 cumin seeds, ginger, and green chilies.",
@@ -178,6 +253,11 @@
     "name": "Lauki Chana Dal",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/lauki-chana-dal.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=ZC3E_UJNL8U",
+    "https://www.youtube.com/watch?v=d-4R1MemAo8",
+    "https://www.youtube.com/watch?v=NnUyvIXmkgc"
+]
     "steps": [
       "Soak chana dal for 1 hour and boil.",
       "Saut\u00e9 onions, tomatoes, and spices.",
@@ -190,6 +270,11 @@
     "name": "Jeera Rice",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/jeera-rice.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=raUlcCUnEZs",
+    "https://www.youtube.com/watch?v=482su5EwL8w",
+    "https://www.youtube.com/watch?v=RW-bkcqvUMI"
+]
     "steps": [
       "Heat ghee and fry cumin seeds until aromatic.",
       "Add soaked basmati rice and saut\u00e9 gently.",
@@ -201,6 +286,11 @@
     "name": "Chana Masala",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/chole-recipe.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=W9jQkOyjmAs",
+    "https://www.youtube.com/watch?v=0ATENI8GRDw",
+    "https://www.youtube.com/watch?v=NN-IxZe_Oew"
+]
     "steps": [
       "Soak and boil chickpeas until soft.",
       "Saut\u00e9 onions, tomatoes, and ginger garlic paste.",
@@ -213,6 +303,11 @@
     "name": "Tinda Masala",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/tinda-sabzi.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=qecFsrnTyN8",
+    "https://www.youtube.com/watch?v=0HucLn4Dpn4",
+    "https://www.youtube.com/watch?v=0HucLn4Dpn4"
+]
     "steps": [
       "Peel and chop tinda.",
       "Saut\u00e9 cumin seeds, onions, and tomatoes.",
@@ -225,6 +320,11 @@
     "name": "Palak Dal",
     "category": "Lunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/spinach-dal.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=9kvkhxa3K_w",
+    "https://www.youtube.com/watch?v=HZ67I0Ry3wI",
+    "https://www.youtube.com/watch?v=UXMAqIy5dKI"
+]
     "steps": [
       "Pressure cook dal with turmeric and green chilies.",
       "Saut\u00e9 garlic, onions, and tomatoes in ghee.",
@@ -237,6 +337,11 @@
     "name": "Pav Bhaji",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/pav-bhaji.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=rSLiOqJ2egU",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+]
     "steps": [
       "Boil vegetables like potatoes, peas, and carrots.",
       "Mash them and cook with butter, onions, tomatoes, and pav bhaji masala.",
@@ -248,6 +353,11 @@
     "name": "Misal Pav",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/misal-pav.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=MYZHbLlLP8k",
+    "https://www.youtube.com/watch?v=gJXeu2Eih60",
+    "https://www.youtube.com/watch?v=2_BkfGRcx3o"
+]
     "steps": [
       "Cook sprouted matki beans with spicy masala gravy.",
       "Top with farsan and chopped onions.",
@@ -258,6 +368,11 @@
     "name": "Kanda Poha",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/kanda-poha.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=2_BkfGRcx3o",
+    "https://www.youtube.com/watch?v=jODnSnhbIbQ",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ"
+]
     "steps": [
       "Rinse poha and let it sit.",
       "Saut\u00e9 mustard seeds, green chilies, and onions.",
@@ -269,6 +384,11 @@
     "name": "Vegetable Sandwich",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/vegetable-sandwich.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+]
     "steps": [
       "Butter bread slices and apply green chutney.",
       "Layer sliced cucumber, tomato, beetroot, and potato.",
@@ -280,6 +400,11 @@
     "name": "Bread Pakora",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/bread-pakora.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs",
+    "https://www.youtube.com/watch?v=nnRdFlBtF2Y",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+]
     "steps": [
       "Make potato filling with spices.",
       "Stuff between two bread slices and dip in gram flour batter.",
@@ -291,6 +416,11 @@
     "name": "Chole Kulche",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/chole-kulche.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=WLPOyKOogJg",
+    "https://www.youtube.com/watch?v=lQ5VagHI3q0",
+    "https://www.youtube.com/watch?v=MYZHbLlLP8k"
+]
     "steps": [
       "Boil white chickpeas and prepare spicy chole masala.",
       "Heat kulche with butter.",
@@ -301,6 +431,11 @@
     "name": "Egg Bhurji with Toast",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/egg-bhurji.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=4Ls4xFBW3kQ",
+    "https://www.youtube.com/watch?v=x0RFlAcS6Aw",
+    "https://www.youtube.com/watch?v=H2AFrvHUJpQ"
+]
     "steps": [
       "Scramble eggs with onion, tomato, and spices.",
       "Cook until fluffy and garnish with coriander.",
@@ -311,6 +446,11 @@
     "name": "Batata Vada",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/batata-vada.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=tZjCcyWSDiI",
+    "https://www.youtube.com/watch?v=vxsZ3EM8KsY",
+    "https://www.youtube.com/watch?v=ku2bfXRQdfs"
+]
     "steps": [
       "Prepare spiced mashed potato filling.",
       "Dip balls in gram flour batter and deep fry.",
@@ -321,6 +461,11 @@
     "name": "Rava Uttapam",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/rava-uttapam.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4",
+    "https://www.youtube.com/watch?v=L2ZEPBiaDWw",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+]
     "steps": [
       "Make batter with rava, curd, and water.",
       "Pour on tawa and top with onions, tomatoes, and chilies.",
@@ -331,6 +476,11 @@
     "name": "Sabudana Thalipeeth",
     "category": "Brunch",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/sabudana-thalipeeth.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=CezjeTmvTmA",
+    "https://www.youtube.com/watch?v=6dtzeoKY8UY",
+    "https://www.youtube.com/watch?v=BiO1SXyRAs4"
+]
     "steps": [
       "Mix soaked sabudana, mashed potatoes, and spices.",
       "Flatten and cook on tawa until crisp.",
@@ -341,6 +491,11 @@
     "name": "Butter Chicken",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/butter-chicken.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=a03U45jFxOI",
+    "https://www.youtube.com/watch?v=vjKEUBg-ziY",
+    "https://www.youtube.com/watch?v=WLPOyKOogJg"
+]
     "steps": [
       "Marinate chicken with yogurt and spices for 6 hours.",
       "Cook chicken in a tandoor or pan until browned.",
@@ -353,6 +508,11 @@
     "name": "Hyderabadi Biryani",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/hyderabadi-biryani.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=VI0LQaIkVf8",
+    "https://www.youtube.com/watch?v=CVyJ2IXW8_s",
+    "https://www.youtube.com/watch?v=a03U45jFxOI"
+]
     "steps": [
       "Marinate meat with yogurt, fried onions, and biryani spices.",
       "Partially cook basmati rice separately.",
@@ -365,6 +525,16 @@
     "name": "Dal Tadka",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/dal-tadka.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=VI0LQaIkVf8",
+    "https://www.youtube.com/watch?v=CVyJ2IXW8_s",
+    "https://www.youtube.com/watch?v=a03U45jFxOI"
+]
+"videos": [
+    "https://www.youtube.com/watch?v=XzVxjs3PTm4",
+    "https://www.youtube.com/watch?v=hDR8yvKTOyY",
+    "https://www.youtube.com/watch?v=WLPOyKOogJg"
+]
     "steps": [
       "Pressure cook toor dal with turmeric.",
       "In ghee, temper cumin, garlic, onions, and tomatoes.",
@@ -377,6 +547,11 @@
     "name": "Malai Kofta",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/malai-kofta.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=O7mhMWNCRGE",
+    "https://www.youtube.com/watch?v=c8Lh4vzSQG0",
+    "https://www.youtube.com/watch?v=ZDFte5qTHUc"
+]
     "steps": [
       "Prepare koftas using paneer and potatoes, deep fry till golden.",
       "Make creamy tomato-cashew gravy with spices.",
@@ -387,6 +562,11 @@
     "name": "Chicken Chettinad",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/chicken-chettinad.jpg",
+    "videos": [
+  "https://www.youtube.com/watch?v=zVYa0abkdkE",
+  "https://www.youtube.com/watch?v=eajGpPvTEXc",
+  "https://www.youtube.com/watch?v=NY7_WdL7TX0"
+]
     "steps": [
       "Marinate chicken with yogurt and spices.",
       "Saut\u00e9 onions, tomatoes, and Chettinad masala.",
@@ -398,6 +578,11 @@
     "name": "Gobi Paratha",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/gobi-paratha.jpg",
+    "videos": [
+  "https://www.youtube.com/watch?v=2WzNEb9EEMg",
+  "https://www.youtube.com/watch?v=4-EMTzURgXg",
+  "https://www.youtube.com/watch?v=8ifpeFVgagc"
+]
     "steps": [
       "Prepare dough using wheat flour.",
       "Grate cauliflower and mix with spices.",
@@ -409,6 +594,11 @@
     "name": "Veg Pulao",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/veg-pulao.jpg",
+    "videos": [
+  "https://www.youtube.com/watch?v=G7z5p5Z1x1A",
+  "https://www.youtube.com/watch?v=J5z5p5Z1x1B",
+  "https://www.youtube.com/watch?v=K5z5p5Z1x1C"
+]
     "steps": [
       "Saut\u00e9 whole spices, onions, and mixed vegetables.",
       "Add soaked basmati rice and water.",
@@ -420,6 +610,11 @@
     "name": "Paneer Butter Masala",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/paneer-butter-masala.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=pjJgCXx_FRk",
+    "https://www.youtube.com/watch?v=O0Y-ppH8Ajk",
+    "https://www.youtube.com/watch?v=Y6mJJvbEKBI"
+  ]
     "steps": [
       "Saut\u00e9 onions, tomatoes, and cashews, blend into a smooth paste.",
       "Cook paste with butter and spices.",
@@ -431,6 +626,11 @@
     "name": "Fish Curry with Rice",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/fish-curry.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=kjx5wDoY_n8",
+    "https://www.youtube.com/watch?v=o4VcIrtoMUI",
+    "https://www.youtube.com/watch?v=N5MoJx_4-mk"
+  ]
     "steps": [
       "Marinate fish with turmeric and salt.",
       "Prepare gravy with coconut, tamarind, onions, and spices.",
@@ -442,6 +642,11 @@
     "name": "Methi Thepla with Yogurt",
     "category": "Dinner",
     "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/methi-thepla.jpg",
+    "videos": [
+    "https://www.youtube.com/watch?v=RcepvdxUvf0",
+    "https://www.youtube.com/watch?v=6VTznQZ0x4c",
+    "https://www.youtube.com/watch?v=iPO-8KVOpvg"
+  ]
     "steps": [
       "Mix wheat flour, chopped methi, yogurt, and spices.",
       "Knead into dough and rest.",
@@ -453,6 +658,11 @@
     "name": "Gulab Jamun",
     "category": "Desserts",
     "image": "https://example.com/images/gulab-jamun.jpg",
+     "videos": [
+    "https://www.youtube.com/watch?v=An5NHoUzQQg",
+    "https://www.youtube.com/watch?v=QFvd7u_YjVk",
+    "https://www.youtube.com/watch?v=5MUQ840KTHY"
+  ]
     "steps": [
       "Mix khoya, maida, and baking soda to form a soft dough.",
       "Make small balls from the dough and deep fry on low heat until golden brown.",
@@ -465,6 +675,7 @@
     "name": "Falooda",
     "category": "Desserts",
     "image": "https://example.com/images/falooda.jpg",
+    
     "steps": [
       "Cook falooda sev as per packet instructions and chill.",
       "In a glass, layer soaked basil seeds, sev, rose syrup, and cold milk.",
