@@ -28,7 +28,6 @@ const Home = ({ recipes }) => {
               <div className='card-content'>
                 <h2>{recipe.name || 'Untitled Recipe'}</h2>
                 <p><strong>Category:</strong> {recipe.category || 'N/A'}</p>
-                <p><strong>Author:</strong> {recipe.author || 'Anonymous'}</p> 
               </div>
             </div>
           ))
