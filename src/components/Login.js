@@ -1,6 +1,11 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "../Styles/Login.css"; 
+import { auth } from "../components/Firebase"; 
+import {
+  signInWithEmailAndPassword,
+  createUserWithEmailAndPassword,
+} from "firebase/auth";
+import "../Styles/Login.css";
 
 const Login = () => {
   const [isLogin, setIsLogin] = useState(true);
@@ -10,7 +15,7 @@ const Login = () => {
   const [error, setError] = useState("");
   const navigate = useNavigate();
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
 
     if (!email || !password || (!isLogin && !confirmPassword)) {
@@ -23,18 +28,20 @@ const Login = () => {
       return;
     }
 
-    if (isLogin) {
-      // Mock login validation
-      if (email === "user@example.com" && password === "password") {
+    try {
+      if (isLogin) {
+        // Firebase Login
+        await signInWithEmailAndPassword(auth, email, password);
         alert("Login successful!");
         navigate("/"); // Redirect to home page
       } else {
-        setError("Invalid login credentials.");
+        // Firebase Signup
+        await createUserWithEmailAndPassword(auth, email, password);
+        alert("Account created successfully!");
+        setIsLogin(true); // Switch to login
       }
-    } else {
-      // Mock signup logic
-      alert("Account created successfully!");
-      setIsLogin(true); // Switch to login
+    } catch (err) {
+      setError(err.message);
     }
   };
 
